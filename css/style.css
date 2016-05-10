@@ -75,14 +75,15 @@ body a:hover{
 /*-- //header --*/
 /*-- banner --*/
 .banner{
-	background:url(../images/banner11.jpg) no-repeat 0px 0px;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-ms-background-size:cover;
-	min-height:650px;
-	position:relative;
+	background: url(../images/banner11.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 650px;
+	position: relative;
+	height: 651px;
 }
 .banner-info {
     width: 48%;
