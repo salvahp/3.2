@@ -7,6 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 html, body{
     font-size: 100%;
 	background:	#fff;
+	font-family: 'Comfortaa', cursive;
 }
 p{
 	margin:0;
@@ -73,6 +74,20 @@ body a:hover{
     color: #32A560;
 }
 /*-- //header --*/
+/*-- landingpage --*/
+.fullheight {
+	height:100vh;
+}
+.wrap{
+	padding-top:5em;
+    margin: 0 auto;
+    max-width: 850px;
+    min-width: 320px;
+    display: block;
+    letter-spacing: 1px;
+}
+#gotosite{ }
+/*-- //landingpage --*/
 /*-- banner --*/
 .banner{
 	background: url(../images/banner11.jpg) no-repeat 0px 0px;
