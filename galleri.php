@@ -1,6 +1,6 @@
 <?php 
-	$thisPage="Services";
-	$title ="Campus Bindslevs Plads - andet service osv";
+	$thisPage="Galleri";
+	$title ="Campus Bindslevs Plads - Galleri";
 	include "inc/header.php";?>
 	
 <!-- banner -->
