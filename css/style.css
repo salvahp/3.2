@@ -208,7 +208,7 @@ p.ever{
 .icons{
 	width:70px;
 	height:70px;
-	background:#193725;
+	background:#ea7e34;
 	margin:0 auto;
 	border-radius:60px;
 	-webkit-border-radius:60px;
@@ -355,7 +355,7 @@ h3.tittle {
 	-o-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
 	-ms-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
 	transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
-	background:#6b0f24;
+	background:#ea7e34;
 	opacity: 0;
 }
 .ch-img-1 { 
