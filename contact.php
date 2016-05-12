@@ -12,11 +12,11 @@
 			<div class="contact-form">
 					<div class="col-md-6 contact-grid animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 					<form>
-						<p class="your-para">Your name:</p>
+						<p class="your-para">Navn:</p>
 						<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
-						<p class="your-para">Your mail:</p>
+						<p class="your-para">E-mail:</p>
 						<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
-						<p class="your-para">Your message:</p>
+						<p class="your-para">Besked til os:</p>
 						<textarea cols="77" rows="6" onfocus="this.value='';" onblur="if (this.value == '') {this.value = '';}"></textarea>
 						<div class="send">
 							<input type="submit" value="Send">
@@ -28,13 +28,13 @@
 					<p class="para1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.  </p>
 					<div class="more-address"> 
 						<div class="address-more">
-							<p>My company name,</p>
-							<p>Lorem ipsum dolor,</p>
-							<p>Jasmin Dr 40 Fe 72. </p>
+							<p>Campus Bindslevs Plads</p>
+							<p>Bindslevs Plads 14</p>
+							<p>8600 Silkeborg</p>
 						</div>
 						<div class="address-left">
-							<p>Tel:1115550001</p>
-							<p>Fax:190-4509-494</p>
+							<p>Tlf:87 22 19 00</p>
+							<p><a href="http://campusbindslevsplads.dk/"> Campus Bindslevs Plads</a></p>
 							<p><a href="mailto:info@example.com">mail@example.com</a></p>
 						</div>
 						<div class="clearfix"> </div>
