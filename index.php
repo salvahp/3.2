@@ -94,8 +94,8 @@
 							<div class="ch-info">
 								<div class="ch-info-front ch-img-1"></div>
 								<div class="ch-info-back">
-										<h3>Lorem</h3>
-									<p>by Alexander Shumihin <a href="#">View on Dribbble</a></p>
+										<h3>Rethink Læring</h3>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/rethink-laering/">Rethink Læring</a></p>
 								</div>	
 							</div>
 						</div>
@@ -105,8 +105,8 @@
 							<div class="ch-info">
 								<div class="ch-info-front ch-img-2"></div>
 								<div class="ch-info-back">
-										<h3>Ipsum</h3>
-									<p>by Zoe Ingram  <a href="#">View on Dribbble</a></p>
+										<h3>FabLab</h3>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/fablab-silkeborg/">FabLab</a></p>
 								</div>
 							</div>
 						</div>
@@ -116,8 +116,8 @@
 							<div class="ch-info">
 								<div class="ch-info-front ch-img-3"></div>
 								<div class="ch-info-back">
-										<h3>Ingram</h3>
-									<p>by Eileen Tjan <a href="#">View on Dribbble</a></p>
+										<h3>Projekt Ny Læring</h3>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/projekt-ny-laering/">Projekt Ny Læring</a></p>
 								</div>
 							</div>
 						</div>
@@ -127,8 +127,8 @@
 							<div class="ch-info">
 								<div class="ch-info-front ch-img-4"></div>
 								<div class="ch-info-back">
-										<h3>Yacht</h3>
-									<p>by Eileen Tjan  <a href="#">View on Dribbble</a></p>
+										<h3>Forskning</h3>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/forskning/">Forskning</a></p>
 								</div>
 							</div>
 						</div>
