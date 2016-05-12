@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
 <title><?php echo $title; ?></title>
-<link rel="icon" href="favicon.png" type="image/png">
+<link rel="icon" href="favicon.ico?" type="image/png">
 
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
