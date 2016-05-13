@@ -6,4 +6,10 @@
 <file name="Database.class.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131074306820663058" remote="131074306820000000" Dst="2" />
 <file name="Newsletter.class.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131073454582452488" remote="131073454580000000" Dst="2" />
 <file name="send.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131073454582457491" remote="131073454580000000" Dst="2" />
+<file name="create_table.sql" server="ftp.danudenx.dk//cbp/" local="131075318078325383" remote="131076033600000000" Dst="2" />
+<file name="Database.class.php" server="ftp.danudenx.dk//cbp/" local="131075318078305378" remote="131076033600000000" Dst="2" />
+<file name="footer.php" server="ftp.danudenx.dk//cbp/" local="131075318078325383" remote="131076033600000000" Dst="2" />
+<file name="header.php" server="ftp.danudenx.dk//cbp/" local="131076098608553687" remote="131076033600000000" Dst="2" />
+<file name="Newsletter.class.php" server="ftp.danudenx.dk//cbp/" local="131075318078315376" remote="131076033600000000" Dst="2" />
+<file name="send.php" server="ftp.danudenx.dk//cbp/" local="131075318078335391" remote="131076033600000000" Dst="2" />
 </dwsync>
