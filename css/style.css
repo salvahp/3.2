@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 html, body{
     font-size: 100%;
 	background:	#fff;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Helvetica neue', cursive;
 }
 p{
 	margin:0;
@@ -28,24 +28,24 @@ body a:hover{
     display: block;
     padding-top:6px;
     color: #fff !important;
-    font-size: 3em;
+    font-size: 4em;
     text-decoration: none;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Helvetica', regular;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #99cc00;
+    color: #753f16;
     background: none;
 }
 .navbar-brand span {
     font-size: 13px;
     display: block;
     padding-left: 29px;
-    color: #32A560;
+    color: #753f16;
     line-height: 3.5em;
 }
 .navbar-nav {
     float: right;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', regular;
     margin-top: 7px;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -57,7 +57,7 @@ body a:hover{
     background: none;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
-	color:#32A560;
+	color:#753f16;
 	background: none;
 }
 .navbar-default .navbar-nav > li > a {
@@ -71,7 +71,7 @@ body a:hover{
     padding: 10px 25px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #32A560;
+    color: #753f16;
 }
 /*-- //header --*/
 /*-- landingpage --*/
@@ -107,9 +107,9 @@ body a:hover{
 .banner-info-left h1 {
     text-transform: capitalize;
     font-size: 2.5em;
-    color: #6b0f24;
+    color: #753f16;
     margin: 0;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', Regular;
 }
 .banner-info-left p {
     font-size: 14px;
@@ -247,17 +247,17 @@ p.ever{
     height: 301px;
 }
 .crop-right {
-    background-color: #84CEA2;
+    background-color: #ef7d43;
     padding: 2.15em 5em;
 }
 .crop h3 {
-    color:#6b0f24;
+    color:#ffffff;
     font-size: 2em;
     font-family: 'Comfortaa', cursive;
     margin: 0 0 1em;
 }
 .crop h4{
-    color: #6b0f24;
+    color: #753f16;
     font-size: 1.3em;
     font-family: 'Comfortaa', cursive;
     margin: 0 ;

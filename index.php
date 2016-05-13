@@ -12,7 +12,7 @@
 							<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>sunt in culpa qui officia .</h1>
+									<h1>Rethink læring</h1>
 									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
 										sunt in culpa qui officia.</p>
@@ -23,7 +23,7 @@
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>sunt in culpa qui officia.</h1>
+									<h1>FabLab</h1>
 									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
 										sunt in culpa qui officia.</p>
@@ -34,7 +34,7 @@
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>sunt in culpa qui officia.</h1>
+									<h1>Projekt Ny Læring</h1>
 									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
 										sunt in culpa qui officia.</p>
