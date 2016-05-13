@@ -22,8 +22,11 @@ body a:hover{
 /*-- header --*/
 .header {
     background: #ff9459;
-	opacity:50%;
+	  opacity: 50%;
     padding: 1.3em 0;
+    position: absolute;
+    width: 100%;
+    z-index: 200;
 }
 .navbar-brand{
     display: block;
@@ -31,7 +34,8 @@ body a:hover{
     color: #fff !important;
     font-size: 4em;
     text-decoration: none;
-	font-family: 'Helvetica', regular;
+	 font-family: 'Helvetica', regular;
+
 }
 
 #bannerlogo{

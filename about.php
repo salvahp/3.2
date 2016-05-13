@@ -47,66 +47,66 @@
 								
 							<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-3.jpg" alt="">
+										<img src="images/partnerelogo/biblogo.png" alt="">
 										<div class="team-bottom">
-											<h4>CAROL ADAMS</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Silkeborg Bibliotekerne</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-2.jpg" alt="">
+										<img src="images/partnerelogo/hslogo.png" alt="">
 										<div class="team-bottom">
-											<h4>MARK SIMMY</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Silkeborg Buisness College</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-4.jpg" alt="">
+										<img src="images/partnerelogo/kreativeskolelogo.png" alt="">
 										<div class="team-bottom">
-											<h4>WILLIAM</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Den Kreative Skole</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-1.jpg" alt="">
+										<img src="images/partnerelogo/medborgerhuslogo.jpg" alt="">
 										<div class="team-bottom">
-											<h4>ALAN SMITH</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Medborgerhuset</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-3.jpg" alt="">
+										<img src="images/partnerelogo/silkeborglogo.png" alt="">
 										<div class="team-bottom">
-											<h4>CAROL ADAMS</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Folkeskolen i Silkeborg</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-2.jpg" alt="">
+										<img src="images/partnerelogo/thlanghfvuclogo.jpg" alt="">
 										<div class="team-bottom">
-											<h4>MARK SIMMY</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Th Langs HF & VUC</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-4.jpg" alt="">
+										<img src="images/partnerelogo/thlangslogo.png" alt="">
 										<div class="team-bottom">
-											<h4>WILLIAM</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Th Langs Skole</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/team-1.jpg" alt="">
+										<img src="images/partnerelogo/ungdomsskolelogo.jpeg" alt="">
 										<div class="team-bottom">
-											<h4>ALAN SMITH</h4>
-											<p>Fusce et nibh eget odio cursus consectetur</p>
+											<h4>Silkeborg Ungdomsskole</h4>
+											<p>blablabla</p>
 										</div>
 									</div>
 								</li></ul><div class="nbs-flexisel-nav-left" style="top: 157.5px;"></div><div class="nbs-flexisel-nav-right" style="top: 157.5px;"></div></div></div>
