@@ -41,7 +41,7 @@
 		<!-- flex-slider -->
 			<div class="work-bottom animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 							<div class="nbs-flexisel-container"><div class="nbs-flexisel-inner"><ul id="flexiselDemo1" class="nbs-flexisel-ul" style="left: -285px; display: block;">			
-								
+							
 								
 								
 								
