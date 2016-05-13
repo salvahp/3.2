@@ -57,7 +57,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="icon-bar"></span>
 					  </button>
 						<div class="logo animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<a class="navbar-brand" href="index.php">Campus Bindslevs Plads<span>Silkeborg kommune</span></a>
+							<a class="navbar-brand" href="index.php"><img id="bannerlogo" src="images/LOGO.png"></a>
 						</div>
 					</div>
 
