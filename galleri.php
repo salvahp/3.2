@@ -2,7 +2,9 @@
 	$thisPage="Galleri";
 	$title ="Campus Bindslevs Plads - Galleri";
 	include "inc/header.php";?>
-	
+	<head>
+		<link rel="stylesheet" href="css/lightbox.css">
+	</head>
 <!-- banner -->
 	<div class="banner-1">
 	</div>
@@ -12,11 +14,11 @@
 	<div class="container">
 		<div class="services-main">
 			<div class="services-top animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<h3>Services</h3>
-				<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.</p>
+				<h3>Galleri</h3>
+			<!-- 	<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.</p>
 			</div>
 			<div class="services-bottom">
-				<div class="main-serv">
+				<div class="main-serv"> 
 					<div class="col-md-3 main-serv-grid animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 						<img src="images/6.jpg" alt="" class="img-responsive">
 						<h4>Neque porro quisquam est</h4>
@@ -38,39 +40,54 @@
 						<p>Blinded by desire, that they cannot foresee the pain and trouble that bound.</p>
 					</div>
 				  <div class="clearfix"> </div>
-				</div>
+				</div>-->
 				<div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<h3>Other Services</h3>
-					<div class="col-md-4 other-serv-grid">
-						<h4> Nam libero tempore cum soluta</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<h4>Et harum quidem facilis distin</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<h4>Nam libero tempore cum soluta</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="col-md-4 other-serv-grid">
-						<h4>Lorem ipsum dolor consectetur</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<h4>Nam libero tempore cum soluta</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<h4>Et harum quidem facilis distin</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="col-md-4 other-serv-grid">
-						<h4> Nam libero tempore cum soluta</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<h4>Et harum quidem facilis distin</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-						<h4>Nam libero tempore cum soluta</h4>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
+					<h3>byggeri</h3>
+					<!--thumb image i img -->
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						
+
+					
+				  <div class="clearfix"> </div>
+				  <div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
+					<h3>Projekter</h3>
+					<!--thumb image i img -->
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>			
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+
+					
+				  <div class="clearfix"> </div>
+				  <div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
+					<h3>Tegninger</h3>
+					<!--thumb image i img -->
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>			
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+
+					
 				  <div class="clearfix"> </div>
 				</div>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-</div>
+</div></div>
+ <script src="js/lightbox-plus-jquery.min.js"></script>
 <!-- services -->
 <?php include "inc/footer.php";?>

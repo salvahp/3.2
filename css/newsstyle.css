@@ -103,7 +103,7 @@ body {
 }
 
 #newsletterform .loading {
-    background: url("../images/loading.gif") no-repeat center 20px;
+    background: url("../images/landingloading.gif") no-repeat center 20px;
 }
 
 @media only screen and (max-width:769px) {
