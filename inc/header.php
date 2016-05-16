@@ -64,9 +64,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					 <ul class="nav navbar-nav animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-						<li <?php if ($thisPage=="Home") echo " class=\"active\""; ?>><a href="index.php">Forside</a></li>
-                        <li <?php if ($thisPage=="Galleri") echo " class=\"active\""; ?>><a href="galleri.php">Galleri</a></li>
-						<li <?php if ($thisPage=="Om os") echo " class=\"active\""; ?>><a href="about.php">Om kampagnen</a></li>
+						<li <?php if ($thisPage=="Home") echo " class=\"active\""; ?>><a href="index.php">Home</a></li>
+						<li <?php if ($thisPage=="Om os") echo " class=\"active\""; ?>><a href="about.php">Om os</a></li>
+						<li <?php if ($thisPage=="Galleri") echo " class=\"active\""; ?>><a href="galleri.php">Galleri</a></li>
 						<li <?php if ($thisPage=="Kontakt") echo " class=\"active\""; ?>><a href="contact.php">Kontakt</a></li>
 					  </ul>
 					</div><!-- /.navbar-collapse -->

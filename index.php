@@ -106,7 +106,7 @@
 								<div class="ch-info-front ch-img-2"></div>
 								<div class="ch-info-back">
 										<h3>FabLab</h3>
-									<p><a href="http://campusbindslevsplads.dk/index.php/fablab-silkeborg/">Læs mere</a></p>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/fablab-silkeborg/">FabLab</a></p>
 								</div>
 							</div>
 						</div>
@@ -117,7 +117,7 @@
 								<div class="ch-info-front ch-img-3"></div>
 								<div class="ch-info-back">
 										<h3>Projekt Ny Læring</h3>
-									<p> <a href="http://campusbindslevsplads.dk/index.php/projekt-ny-laering/">Læs mere</a></p>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/projekt-ny-laering/">Projekt Ny Læring</a></p>
 								</div>
 							</div>
 						</div>
@@ -128,7 +128,7 @@
 								<div class="ch-info-front ch-img-4"></div>
 								<div class="ch-info-back">
 										<h3>Forskning</h3>
-									<p><a href="http://campusbindslevsplads.dk/index.php/forskning/">Læs mere</a></p>
+									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/forskning/">Forskning</a></p>
 								</div>
 							</div>
 						</div>
@@ -141,7 +141,7 @@
 <!-- welcome -->
 	<div class="welcome">
 		<div class="container">
-			<h3>VELKOMMEN!</h3>
+			<h3>Welcome !</h3>
 			<p class="ever">To take a trivial example, which of us ever undertakes laborious 
 				physical exercise.</p>
 			<div class="welcome-grids">
