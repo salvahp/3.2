@@ -2,11 +2,11 @@
 	<div class="footer">
 		<div class="container">
 			<div class="col-md-4 footer-left animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<h4>Contact</h4>
+				<h4>Kontakt</h4>
 					<address>
-						795 Folsom Ave, Suite 600<br>
-						San Francisco, CA 94107<br>
-						<abbr title="Phone">P :</abbr> (123) 456-7890
+						Bindslevs Plads 14<br>
+						8600 Silkeborg<br>
+						<abbr title="Phone">Tlf.:</abbr> 87 22 19 00
 					</address>
 			</div>
 			<div class="col-md-4 footer-left animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
