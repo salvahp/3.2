@@ -71,7 +71,7 @@
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/partnerelogo/medborgerhuslogo.jpg" alt="">
+										<img src="images/partnerelogo/medborgerhuslogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Medborgerhuset</h4>
 											<p>blablabla</p>
@@ -87,7 +87,7 @@
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/partnerelogo/thlanghfvuclogo.jpg" alt="">
+										<img src="images/partnerelogo/thlanghfvuclogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Th Langs HF & VUC</h4>
 											<p>Vi ser netop samarbejdet omkring ny læring, som kernen i projektet, og den læring kræver helt nye og anderledes rammer, for at kunne udfolde sig. De rammer skal Campus Bindslevs Plads udgøre i fremtiden. </p>
@@ -103,7 +103,7 @@
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
-										<img src="images/partnerelogo/ungdomsskolelogo.jpeg" alt="">
+										<img src="images/partnerelogo/ungdomsskolelogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Ungdomsskole</h4>
 											<p>blablabla</p>

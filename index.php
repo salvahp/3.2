@@ -71,7 +71,7 @@
 			<div class="col-md-4 crop-left1 animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms"><!-- billede til venstre-->
 			</div>
 			<div class="col-md-4 crop-left animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<iframe src="https://player.vimeo.com/video/23665427?color=e6d9c3&byline=0&portrait=0" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><!-- Video -->
+				<iframe src="https://www.youtube.com/embed/ZZ5LpwO-An4" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><!-- Video -->
 			</div>
 			<div class="col-md-4 crop-right animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms"> <!-- info til højre  -->
 				<h3>Opening Hours</h3>
