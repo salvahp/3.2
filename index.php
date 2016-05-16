@@ -128,7 +128,7 @@
 								<div class="ch-info-front ch-img-4"></div>
 								<div class="ch-info-back">
 										<h3>Forskning</h3>
-									<p>Læs mere om ... <a href="http://campusbindslevsplads.dk/index.php/forskning/">Forskning</a></p>
+									<p><a href="http://campusbindslevsplads.dk/index.php/forskning/">Læs mere</a></p>
 								</div>
 							</div>
 						</div>

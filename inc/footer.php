@@ -17,7 +17,7 @@
 				<p>10:00am - 18:30pm</p>
 			</div>
 			<div class="col-md-4 footer-left animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<h4>Follow Us</h4>
+				<h4>Følg os</h4>
 				<div class="soci">
 					<li><a href="#"><i class="f-1"> </i></a></li>
 					<li><a href="#"><i class="t-1"> </i></a></li>

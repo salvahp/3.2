@@ -1,6 +1,6 @@
 <?php 
-	$thisPage="Om os";
-	$title ="Campus Bindslevs Plads - Om os";
+	$thisPage="Om kampagnen";
+	$title ="Campus Bindslevs Plads - Om kampagnen";
 	include "inc/header.php";?>
 <!-- banner -->
 	<div class="banner-1">
@@ -15,7 +15,7 @@
 				<img src="images/10.jpg" alt="">
 			</div>
 			<div class="col-md-7 about-grid1">
-				<h4>A Few Words About Us</h4>
+				<h4>Et par ord om kampagnen</h4>
 				<p> Neque porro quisquam est, qui dolorem ipsum 
 				quia dolor sit amet, consectetur, adipisci velit, 
 				sed quia non numquam eius modi tempora incidunt ut 
@@ -36,7 +36,7 @@
 <!-- team -->
 <div class="team">
 		<div class="team-info">
-			<h3>Our Researches</h3>
+			<h3>Vores samarbejdspartnere</h3>
 		</div>
 		<!-- flex-slider -->
 			<div class="work-bottom animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
@@ -50,7 +50,7 @@
 										<img src="images/partnerelogo/biblogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Bibliotekerne</h4>
-											<p>blablabla</p>
+											<p>Vi vil på biblioteket renoncere på den klassiske institutions ønske om at være en velafgrænset silo og i stedet anerkende det faktum at fremtiden og vores egen forudsætning ligger i viljen til samarbejde.</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
@@ -58,7 +58,7 @@
 										<img src="images/partnerelogo/hslogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Buisness College</h4>
-											<p>blablabla</p>
+											<p>Vi vil bidrage aktivt til at drømmen om fællesarealer, der byder på innovative og fleksible løsninger centreret omkring læring, kreativitet og kultur til glæde og gavn for vores elever, medarbejdere, det lokale erhvervsliv men især unge borgere i Silkeborg.</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
@@ -66,7 +66,7 @@
 										<img src="images/partnerelogo/kreativeskolelogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Den Kreative Skole</h4>
-											<p>blablabla</p>
+											<p>Bindslevs Plads er et vindue, der åbnes til et mangfoldigt kulturliv på tværs af offentlige og private skel, hvor etablerede institutioner og foreningsdrevne virksomheder sammen bidrager til en høj grad af egenkultur – en kultur, der skabes af deltagernes egen aktivitet. </p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
@@ -82,7 +82,7 @@
 										<img src="images/partnerelogo/silkeborglogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Folkeskolen i Silkeborg</h4>
-											<p>blablabla</p>
+											<p>I folkeskolerne arbejder vi ud fra den fælles læringsforståelse, at læring er en aktiv proces hos den, der lærer. Vi ønsker, at børn og unge får rum til at lære. Læring sker i samspil med andre børn og unge, forældre, professionelle og frivillige – både fysisk og virtuelt. </p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
@@ -90,7 +90,7 @@
 										<img src="images/partnerelogo/thlanghfvuclogo.jpg" alt="">
 										<div class="team-bottom">
 											<h4>Th Langs HF & VUC</h4>
-											<p>blablabla</p>
+											<p>Vi ser netop samarbejdet omkring ny læring, som kernen i projektet, og den læring kræver helt nye og anderledes rammer, for at kunne udfolde sig. De rammer skal Campus Bindslevs Plads udgøre i fremtiden. </p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
@@ -98,7 +98,7 @@
 										<img src="images/partnerelogo/thlangslogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Th Langs Skole</h4>
-											<p>blablabla</p>
+											<p>Vi håber, at vi får lavet et attraktivt samlingssted og et endnu bedre og aktivt studiemiljø. Institutionerne tilsammen råder over unikke indendørsfaciliteter, men vi mangler et godt udendørsareal.</p>
 										</div>
 									</div>
 								</li><li class="nbs-flexisel-item" style="width: 285px;">
