@@ -88,6 +88,9 @@
 <!--start-team-->
 		<div class="team">
 	      <div class="container">
+	      	<div class="services-top animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
+	      		<h3>Projekter</h3>
+	      		</div>
 				<ul class="ch-grid">
 					<li>
 						<div class="ch-item animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">				
@@ -138,56 +141,5 @@
 		  </div>
        </div>
 <!--start-yachts-->
-<!-- welcome -->
-	<div class="welcome">
-		<div class="container">
-			<h3>Velkommen!</h3>
-			<p class="ever">To take a trivial example, which of us ever undertakes laborious 
-				physical exercise.</p>
-			<div class="welcome-grids">
-				<div class="col-md-3 welcome-grid animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<div class="welcome-grd">
-						<div class="icons">
-							<span class="glyphicon glyphicon-hourglass" aria-hidden="true"></span>
-						</div>
-						<h4>autem vel eum</h4>
-						<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
-							esse quam.</p>
-					</div>
-				</div>
-				<div class="col-md-3 welcome-grid animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<div class="welcome-grd">
-						<div class="icons">
-							<span class="glyphicon glyphicon-fire" aria-hidden="true"></span>
-						</div>
-						<h4>autem vel eum</h4>
-						<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
-							esse quam.</p>
-					</div>
-				</div>
-				<div class="col-md-3 welcome-grid animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<div class="welcome-grd">
-						<div class="icons">
-							<span class="glyphicon glyphicon-filter" aria-hidden="true"></span>
-						</div>
-						<h4>autem vel eum</h4>
-						<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
-							esse quam.</p>
-					</div>
-				</div>
-				<div class="col-md-3 welcome-grid animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<div class="welcome-grd">
-						<div class="icons">
-							<span class="glyphicon glyphicon-send" aria-hidden="true"></span>
-						</div>
-						<h4>autem vel eum</h4>
-						<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
-							esse quam.</p>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-<!-- //welcome -->
+
 <?php include "inc/footer.php";?>

@@ -87,7 +87,8 @@
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-</div></div>
+</div>
+</div>
  <script src="js/lightbox-plus-jquery.min.js"></script>
 <!-- services -->
 <?php include "inc/footer.php";?>

@@ -242,7 +242,7 @@ p.ever{
 }
 /*-- //welcome --*/
 .crop-left1 {
-    background: url(../images/3.jpg) no-repeat 0px 0px;
+    background: url(../images/kort.png) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -371,21 +371,21 @@ h3.tittle {
 	opacity: 0;
 }
 .ch-img-1 { 
-	  background: url(../images/3.jpg)no-repeat;
+	  background: url(../images/rethinklaering.JPG)no-repeat;
 	z-index: 12;
 }
 
 .ch-img-2 { 
-	  background: url(../images/4.jpg)no-repeat;
+	  background: url(../images/fablab2.png)no-repeat;
 	z-index: 11;
 }
 
 .ch-img-3 { 
-	  background: url(../images/5.jpg)no-repeat;
+	  background: url(../images/projektnylaering.JPG)no-repeat;
 	z-index: 10;
 }
 .ch-img-4 { 
-	  background: url(../images/11.jpg)no-repeat;
+	  background: url(../images/forskning.JPG)no-repeat;
 	z-index: 10;
 }
 .ch-info h3 {
@@ -1032,7 +1032,7 @@ p.para1 {
 /*--contact--*/
 /*--services start here--*/
 .services {
-  padding: 4em 0em 2em 0em;
+  padding: 4em 0em 0em 0em;
 }
 .services-top {
   text-align: center;
@@ -1399,7 +1399,7 @@ h2.typoh2{
     font-size: 1.7em;
 }
 .services {
-    padding: 3em 0em 2em 0em;
+    padding: 3em 0em 0em 0em;
 }
 .banner-1 {
     min-height: 250px;
