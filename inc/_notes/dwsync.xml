@@ -12,4 +12,5 @@
 <file name="header.php" server="ftp.danudenx.dk//cbp/" local="131076098608553687" remote="131076033600000000" Dst="2" />
 <file name="Newsletter.class.php" server="ftp.danudenx.dk//cbp/" local="131075318078315376" remote="131076033600000000" Dst="2" />
 <file name="send.php" server="ftp.danudenx.dk//cbp/" local="131075318078335391" remote="131076033600000000" Dst="2" />
+<file name="dbconnect.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079472493764458" remote="131079472490000000" Dst="2" />
 </dwsync>

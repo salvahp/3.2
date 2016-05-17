@@ -15,11 +15,14 @@
 <file name="typo.php" server="ftp.danudenx.dk//cbp/" local="131075318078455480" remote="131076033600000000" Dst="2" />
 <file name=".DS_Store" server="ftp.danudenx.dk//cbp/" local="131078770041844729" remote="131078705400000000" Dst="2" />
 <file name="upload.php" server="ftp.danudenx.dk//cbp/" local="131078985966572778" remote="131078913600000000" Dst="2" />
-<file name="upload.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131078987758643293" remote="131078987750000000" Dst="2" />
+<file name="upload.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079568354098566" remote="131079568350000000" Dst="2" />
 <file name="uploadform.php" server="ftp.danudenx.dk//cbp/" local="131078970237360045" remote="131078898000000000" Dst="2" />
 <file name=".DS_Store" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131078770041844729" remote="131078770040000000" Dst="2" />
 <file name=".gitignore" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131076116968339346" remote="131076116960000000" Dst="2" />
 <file name="favicon.png" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318075745431" remote="131075318070000000" Dst="2" />
 <file name="galleri.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131078971415705475" remote="131078971410000000" Dst="2" />
-<file name="uploadform.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079076400088466" remote="131079076400000000" Dst="2" />
+<file name="uploadform.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079573116218090" remote="131079573110000000" Dst="2" />
+<file name="dbconnect.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079468820000000" remote="131079468820000000" Dst="2" />
+<file name="getimage.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079474100000000" remote="131079474100000000" Dst="2" />
+<file name="getuploadedimage.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079572051248122" remote="131079572050000000" Dst="2" />
 </dwsync>
