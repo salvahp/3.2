@@ -1,145 +1,75 @@
-<?php 
-	$thisPage="Home";
-	$title ="Campus Bindslevs Plads - Forside";
-	include "inc/header.php";?>
+<!DOCTYPE html>
 
-<!-- banner -->
-	<div class="banner">
-		<div class="container">
-			<section class="slider">
-					<div class="flexslider">
-						<ul class="slides">
-							<li>
-							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-								<div class="banner-info-left">
-									<h1>Rethink læring</h1>
-									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-										sunt in culpa qui officia.</p>
-									
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-								<div class="banner-info-left">
-									<h1>FabLab</h1>
-									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-										sunt in culpa qui officia.</p>
-									
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-								<div class="banner-info-left">
-									<h1>Projekt Ny Læring</h1>
-									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-										sunt in culpa qui officia.</p>
-									
-								</div>
-							</div>
-						</li>
-						</ul>
-					</div>
-				</section>
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+
+<html>
+		<head>
+		<title>Campus Bindslev Plads</title>
+		<link rel="icon" href="favicon.png?" type="image/png">
+		
+		<!-- for-mobile-apps -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="Champion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+		<!-- //for-mobile-apps -->
+		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+		<link rel="stylesheet" href="css/newsstyle.css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet" type="text/css">
+		</head>
+
+		<body>
+		<div id="wrapper" class="wrap fullheight">
+			<main>
+				<section id="myCounter"> 
+					
+					<!-- START COUNTDOWN --> 
+					<script src="js/countdown.js" type="text/javascript"></script> 
+					<script type="application/javascript">
+						
+						var myCountdownTest = new Countdown({
+																year	: 2017,
+																month	: 8, 
+																day		: 1,
+																width	: 850, 
+																height	: 150
+															});
+						
 			
-							<!-- FlexSlider -->
-									  <script defer="" src="js/jquery.flexslider.js"></script>
-									  <script type="text/javascript">
-										$(function(){
-										 
-										});
-										$(window).load(function(){
-										  $('.flexslider').flexslider({
-											animation: "slide",
-											start: function(slider){
-											  $('body').removeClass('loading');
-											}
-										  });
-										});
-									  </script>
-								<!-- FlexSlider -->
+			
+					</script> 
+					
+					<!-- END COUNTDOWN --> 
+				</section>
+				<section id="gotosite" class="center-block btn "> 
+					<a class="btn btn-info btn-lg" href="index.html" role="button">Læs mere om Campus Bindslevs Plads</a> 
+				</section>
+				
+			</main>
+			<!-- Newsletter form -->
+			<section id="newsletterform">
+				<h3>Nyhedsbrev </h3>
+				<p>Hold dig opdateret på hvad der sker på Campus Bindslevs Plads, hjælp os med at hjælpe dig</p>
+				<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
+					<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
+					<input type="submit" value="Tilmeld" name="signup-button" id="signup-button">
+					<span class="arrow"></span>
+				</form>
+				<div id="response"></div>
+				
+				<!-- newsletter scripts --> 
+				<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+				<script src="js/lib.js"></script> 
+			</section>
 		</div>
-	</div>
-<!-- //banner -->
-<!-- crop -->
-	<div class="crop">
-		
-			<div class="col-md-4 crop-left1 animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms"><!-- billede til venstre-->
-			</div>
-			<div class="col-md-4 crop-left animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<iframe src="https://www.youtube.com/embed/ZZ5LpwO-An4" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><!-- Video -->
-			</div>
-			<div class="col-md-4 crop-right animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms"> <!-- info til højre  -->
-				<h3>Kom til </h3>
-				<h3>BORGERMØDE</h3s>
-				<h4>1. februar 2017</h4>
-				<h4>Kl. 19.00</h4>
-				<h5>På Silkeborg Bibliotek</h5>
-				
-			</div>
-			<div class="clearfix"></div>
-		
-	</div>
-<!-- //crop -->
-<!--start-team-->
-		<div class="team">
-	      <div class="container">
-	      	<div class="services-top animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-	      		<h3>Projekter</h3>
-	      		</div>
-				<ul class="ch-grid">
-					<li>
-						<div class="ch-item animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">				
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-1"></div>
-								<div class="ch-info-back">
-										<h3>Rethink Læring</h3>
-									<p> <a href="http://campusbindslevsplads.dk/index.php/rethink-laering/">Læs mere</a></p>
-								</div>	
-							</div>
-						</div>
-					</li>
-					<li>
-						<div class="ch-item animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-2"></div>
-								<div class="ch-info-back">
-										<h3>FabLab</h3>
-									<p><a href="http://campusbindslevsplads.dk/index.php/fablab-silkeborg/">Læs mere</a></p>
-								</div>
-							</div>
-						</div>
-					</li>
-					<li>
-						<div class="ch-item animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-3"></div>
-								<div class="ch-info-back">
-										<h3>Projekt Ny Læring</h3>
-									<p><a href="http://campusbindslevsplads.dk/index.php/projekt-ny-laering/">Læs mere</a></p>
-								</div>
-							</div>
-						</div>
-					</li>
-					 <li>
-						<div class="ch-item animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-4"></div>
-								<div class="ch-info-back">
-										<h3>Forskning</h3>
-									<p><a href="http://campusbindslevsplads.dk/index.php/forskning/">Læs mere</a></p>
-								</div>
-							</div>
-						</div>
-					</li>
-				</ul>
-				
-		  </div>
-       </div>
-<!--start-yachts-->
-
-<?php include "inc/footer.php";?>
+</body>
+</html>
