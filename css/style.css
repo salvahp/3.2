@@ -33,7 +33,7 @@ body a:hover{
     color: #fff !important;
     font-size: 4em;
     text-decoration: none;
-	 font-family: 'Helvetica', regular;
+
 
 }
 
@@ -56,7 +56,6 @@ body a:hover{
 }
 .navbar-nav {
     float: right;
-    font-family: 'Helvetica', regular;
     margin-top: 7px;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -126,7 +125,6 @@ body a:hover{
     font-size: 2.5em;
     color: #753f16;
     margin: 0;
-    font-family: 'Helvetica', Regular;
 }
 .banner-info-left p {
     font-size: 14px;
@@ -162,13 +160,11 @@ body a:hover{
 .crop h3 {
     color:#ffffff;
     font-size: 2em;
-    font-family: 'Comfortaa', cursive;
     margin: 0 0 1em;
 }
 .crop h4{
     color: #753f16;
     font-size: 1.3em;
-    font-family: 'Comfortaa', cursive;
     margin: 0 ;
 }
 .crop p{
@@ -347,14 +343,12 @@ h3.tittle {
 }
 .footer h4 {
     color: #FFF;
-    font-family: 'Comfortaa', cursive;
     margin: 0 0 1em;
     font-size: 2em;
 }
 .footer h5 {
     font-size: 1.2em;
     color: #193725;
-    font-family: 'Comfortaa', cursive;
     margin: 0;
 }
 .footer p {
@@ -380,7 +374,7 @@ address {
     color:#CECECE;
 }
 .footer-bottom a {
-    color:#6b0f24;
+    color:#753f16;
     font-size: 1em;
     line-height: 1.8em;
     text-decoration: none;
@@ -439,7 +433,6 @@ width:100%;
   margin: 0 0 20px 0;
   text-align:center;
   font-size: 28px;
-  font-family: 'Roboto Slab', serif;
   color: #f65a5b;
   font-weight: bold;
   }
@@ -453,9 +446,8 @@ width:100%;
 }
 
 .about-grids h4 {
-     font-family:'Comfortaa', cursive;
   margin: 0;
-  color: #6b0f24;
+  color: #753f16;
   font-size: 22px;
 }
 .about-grids p {
@@ -477,8 +469,7 @@ padding:80px 0;
 }
 .team-bottom h4{
 margin:15px 0;
-  font-family: 'Comfortaa', cursive;
-  color:#6b0f24;
+  color:#753f16;
   font-size: 19px;
 }
 .team-bottom p{
@@ -492,14 +483,13 @@ line-height:1.8em;
   margin: 0 0 20px 0;
   text-align: center;
   font-size: 32px;
-  font-family: 'Comfortaa', cursive;
   color:#193725;
 }
 .team-left{
 margin:0 22px;
 }
 .team-left img{
-width:100%;
+width:60%;
 }
 #flexiselDemo1 {
 	display: none;
@@ -565,7 +555,6 @@ text-align:center;
   margin: 0 0 20px 0;
   color:#99cc00;
   font-size: 32px;
-  font-family: 'Comfortaa', cursive;
 }
 .testimonial p{
 color:#fff;
@@ -850,6 +839,7 @@ p.your-para {
   font-weight: 400;
 }
 .contact-grid input[type="text"], .contact-grid textarea {
+	border-radius:10px;
   width: 100%;
   padding:0.8em;
   margin:0.6em 0;
@@ -863,10 +853,9 @@ p.your-para {
   min-height:180px;
 }
 p.sed-para{
-  color: #6b0f24;
+  color: #753f16;
   font-size: 1.4em;
   font-weight: 700;
-  font-family: 'Comfortaa', cursive;
   margin-bottom: 0.5em;
 }
 p.para1 {
@@ -905,14 +894,14 @@ p.para1 {
   font-size: 4em;
 }
 .send input[type="submit"] {
-    background: #193725;
+	border-radius:10px;
+    background: #ef7d43;
     color: #fff;
     font-weight: 400;
     border: none;
     outline: none;
     padding: 0.7em 2em;
     display: inline-block;
-    outline: none;
     cursor: pointer;
     font-size: 1.1em;
     text-transform: uppercase;
@@ -924,7 +913,7 @@ p.para1 {
     -ms-transition: 0.5s all;
 }
 .send input[type="submit"]:hover {
-    background:#6b0f24;
+    background:#753f16;
 }
 .contact-form {
     margin-bottom: 5em;
@@ -943,7 +932,6 @@ p.para1 {
     font-weight: 400;
     color: #193725;
     margin: 0px 0px 15px 0px;
-    font-family: 'Comfortaa', cursive;
 }
 .services-top p {
   font-size: 0.95em;
@@ -956,9 +944,8 @@ p.para1 {
 .main-serv-grid h4 {
     font-size: 1.2em;
     font-weight: 400;
-    color: #6b0f24;
+    color: #753f16;
     margin: 1.2em 0em 1em 0em;
-    font-family: 'Comfortaa', cursive;
 }
 .main-serv-grid p {
   font-size: 0.95em;
@@ -974,14 +961,12 @@ p.para1 {
     font-weight: 400;
     color: #193725;
     margin: 0px 0px 30px 13px;
-    font-family: 'Comfortaa', cursive;
 }
 .other-serv-grid h4 {
     font-size: 1.2em;
     font-weight: 400;
-    color: #6b0f24;
+    color: #753f16;
     margin: 0.5em 0em 0.5em 0em;
-    font-family: 'Comfortaa', cursive;
 }
 .other-serv-grid p {
   font-size: 0.95em;
@@ -995,7 +980,6 @@ p.para1 {
 h3.title {
     color: #193725;
     font-size: 2em;
-	 font-family: 'Comfortaa', cursive;
 	 text-align:center;
 }
 .show-grid [class^=col-] {
@@ -1037,8 +1021,7 @@ h3.title {
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
 	margin-bottom: 1em;
-    color:#6b0f24;
-    font-family: 'Comfortaa', cursive;
+    color:#753f16;
 }
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
   border-top: none !important;
