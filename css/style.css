@@ -21,9 +21,8 @@ body a:hover{
 }
 /*-- header --*/
 .header {
-    background: #ff9459;
-	  opacity: 50%;
-    padding: 1.3em 0;
+	background-color: rgba(0,0,0,0.00);
+	padding: 1.3em 0;
     position: absolute;
     width: 100%;
     z-index: 200;
@@ -74,7 +73,8 @@ body a:hover{
 }
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-	font-size: 15px;
+	font-size: 25px;
+	font-weight:bolder;
 }
 .navbar {
     margin-bottom: 0;
@@ -134,118 +134,8 @@ body a:hover{
     margin: 3em 0 3em;
     line-height: 1.8em;
 }
-.more a {
-    padding: 12px 30px;
-    background:#6633cc;
-    font-size: 14px;
-    font-family: 'Comfortaa', cursive;
-    color: #fff;
-    display: inline-block;
-    text-decoration: none;
-    transition: .5s all;
-    -webkit-transition: .5s all;
-    -moz-transition: .5s all;
-    -o-transition: .5s all;
-    -ms-transition: .5s all;
-}
-.more a:hover{
-	background: #99cc00;
-	color:#fff;
-}
 /*-- //banner --*/
-/*-- welcome --*/
-.welcome{
-	padding:5em 0;
-}
-.welcome h3{
-	color:#6b0f24;
-	font-family: 'Comfortaa', cursive;
-	margin:0;
-	font-size:2em;
-	padding-left: 0.7em;
-	position:relative;
-}
-.welcome h3:before{
-	content: '';
-    height: 100%;
-    border-left: 5px solid #193725 ;
-    position: absolute;
-    top: 0%;
-    left: 0%;
-}
-p.ever{
-	margin:.5em 0 0;
-	color:#999;
-	font-size:14px;
-	line-height:1.8em;
-	padding-left:1em;
-}
-.welcome-grd{
-	border-radius: 10px;
-    box-shadow: 0px 0px 5px #193725;
-    padding: 1em 1em 0 1em;
-    position: relative;
-    min-height: 250px;
-	transition:.5s all;
-	-webkit-transition:.5s all;
-	-moz-transition:.5s all;
-	-o-transition:.5s all;
-	-ms-transition:.5s all;
-}
-.welcome-grid:hover div.welcome-grd{
-	transform: rotateY(360deg);
-    -webkit-transform: rotateY(360deg);
-    -o-transform: rotateY(360deg);
-    -ms-transform: rotateY(360deg);
-    -moz-transform: rotateY(360deg);
-    transition: 0.5s all ease;
-    -webkit-transition: 0.5s all ease;
-    -moz-transition: 0.5s all ease;
-    -o-transition: 0.5s all ease;
-    -ms-transition: 0.5s all ease;	
-}
-.welcome-grd:hover{
-	box-shadow: 0px 0px 5px #6b0f24;
-}
-.welcome-grd h4{
-	text-transform:capitalize;
-	font-size:1.3em;
-	color:#6b0f24;
-	font-family: 'Comfortaa', cursive;
-	margin:2.5em 0 1em;
-	text-align:center;
-}
-.welcome-grd p{
-	margin:0;
-	color:#999;
-	font-size:14px;
-	text-align:center;
-	line-height:1.8em;
-}
-.icons{
-	width:70px;
-	height:70px;
-	background:#ea7e34;
-	margin:0 auto;
-	border-radius:60px;
-	-webkit-border-radius:60px;
-	-moz-border-radius:60px;
-	-o-border-radius:60px;
-	-ms-border-radius:60px;
-	position:absolute;
-	top: -10%;
-    left: 37%;
-}
-.icons span{
-	color: #fff;
-    font-size: 1.3em;
-    left: 1.1em;
-    top: 1.1em;
-}
-.welcome-grids{
-	margin:6em 0 0;
-}
-/*-- //welcome --*/
+/*-- midterste section på forsiden --*/
 .crop-left1 {
     background: url(../images/kort.png) no-repeat 0px 0px;
     background-size: cover;
@@ -263,6 +153,7 @@ p.ever{
     width: 100%;
     height: 301px;
 }
+
 .crop-right {
     background-color: #ef7d43;
     padding: 2.15em 5em;
@@ -286,7 +177,8 @@ p.ever{
     line-height:1.8em;
     margin:1em 0;
 }
-/*--team--*/
+/*-- //midterste section på forsiden --*/
+/*-- Cirkler med projekter --*/
 h3.tittle {
     color: #333;
     font-size: 3em;
@@ -364,7 +256,7 @@ h3.tittle {
 }
 
 .ch-info .ch-info-front {
-	box-shadow: inset 0 0 0 16px rgba(0,0,0,0.3);
+	box-shadow: inset 0 0 0 16px rgba(239,125,67,0.7);
 }
 
 .ch-info .ch-info-back {
@@ -446,13 +338,15 @@ h3.tittle {
 	transform: rotate3d(1,0,0,0deg);
 	opacity: 1;
 }
+/*-- //Cirkler med projekter --*/
+
 /*-- //to-top --*/
 .footer {
     padding: 5em 0 0;
-    background-color: #929090;
+    background-color: #ef7d43;
 }
 .footer h4 {
-    color: #6b0f24;
+    color: #FFF;
     font-family: 'Comfortaa', cursive;
     margin: 0 0 1em;
     font-size: 2em;

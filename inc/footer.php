@@ -4,18 +4,14 @@
 			<div class="col-md-4 footer-left animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Kontakt</h4>
 					<address>
-						Bindslevs Plads 14<br>
-						8600 Silkeborg<br>
-						<abbr title="Phone">Tlf.:</abbr> 87 22 19 00
+						<ul>
+							<li>Bindslevs Plads 14</li>
+							<li>8600 Silkeborg</li>
+							<li><abbr title="Phone">Tlf.:</abbr> 87 22 19 00</li>
+						</ul>
 					</address>
 			</div>
-			<div class="col-md-4 footer-left animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<h4>Opening Hours</h4>
-				<h5>Monday-Friday</h5>
-				<p>9:30am - 17:30pm</p>
-				<h5>Saturday</h5>
-				<p>10:00am - 18:30pm</p>
-			</div>
+
 			<div class="col-md-4 footer-left animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Følg os</h4>
 				<div class="soci">
@@ -26,7 +22,7 @@
 			</div>
 			<div class="clearfix"> </div>
 			<div class="footer-bottom">
-				<!-- <p>© 2016 Pest. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p> -->
+				<p>© 2016 Pest. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
 			</div>
 		</div>
 	</div>
