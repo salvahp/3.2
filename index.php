@@ -51,7 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<!-- END COUNTDOWN --> 
 				</section>
 				<section id="gotosite" class="center-block btn "> 
-					<a class="btn btn-info btn-lg" href="index.html" role="button">Læs mere om Campus Bindslevs Plads</a> 
+					<a class="btn btn-info btn-lg" href="home.php" role="button">Læs mere om Campus Bindslevs Plads</a> 
 				</section>
 				
 			</main>
