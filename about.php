@@ -12,7 +12,7 @@
 
 		<div class="about-grids animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">	
 			<div class="col-md-5 about-grid">
-				<img src="images/10.jpg" alt="">
+				<img src="images/kort2.png" alt="">
 			</div>
 			<div class="col-md-7 about-grid1">
             <h4>Et par ord om os</h4>

@@ -42,12 +42,12 @@
 				  <div class="clearfix"> </div>
 				</div>-->
 				<div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<h3>byggeri</h3>
+					<h3>Byggeri</h3>
 					<!--thumb image i img -->
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/TorvetFabLabScene.png" data-lightbox="image-1" data-title="byggeri"><img  src="images/gallery/thumb/TorvetFabLabScene.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/TorvetStudierumTrappe.png" data-lightbox="image-1" data-title="byggeri"><img  src="images/gallery/thumb/TorvetStudierumTrappe.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/campus1.png" data-lightbox="image-1" data-title="byggeri"><img  src="images/gallery/thumb/campus1.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/campus2.png" data-lightbox="image-1" data-title="byggeri"><img  src="images/gallery/thumb/campus2.png"><p>Neque porro quisquam est</p></a>
 						
 
 					
@@ -55,30 +55,29 @@
 				  <div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 					<h3>Projekter</h3>
 					<!--thumb image i img -->
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>			
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/fablab.png" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/fablab.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/fablab2.png" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/fablab2.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink1.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink1.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink2.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink2.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink3.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink3.png"><p>Neque porro quisquam est</p></a>		
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink4.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink4.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink5.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink5.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink6.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink6.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink7.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink7.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/rethink8.jpg" data-lightbox="image-1" data-title="projekter"><img  src="images/gallery/thumb/rethink8.png"><p>Neque porro quisquam est</p></a>
 
 					
 				  <div class="clearfix"> </div>
 				  <div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 					<h3>Tegninger</h3>
 					<!--thumb image i img -->
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>			
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
-						<a class="col-md-3 main-serv-grid " href="images/1.jpg" data-lightbox="image-1" data-title="My caption"><img HEIGHT=250 WIDTH=250 src="images/1.jpg"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/dynamik.png" data-lightbox="image-1" data-title="tegninger"><img  src="images/gallery/thumb/dynamik.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/plan.png" data-lightbox="image-1" data-title="tegninger"><img  src="images/gallery/thumb/plan.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/scenetegning.png" data-lightbox="image-1" data-title="tegninger"><img  src="images/gallery/thumb/scenetegning.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/tegning1.png" data-lightbox="image-1" data-title="tegninger"><img  src="images/gallery/thumb/tegning1.png"><p>Neque porro quisquam est</p></a>
+						<a class="col-md-3 main-serv-grid " href="images/gallery/tegning2.png" data-lightbox="image-1" data-title="tegninger"><img  src="images/gallery/thumb/tegning2.png"><p>Neque porro quisquam est</p></a>			
+						<a class="col-md-3 main-serv-grid " href="images/gallery/tegning3.png" data-lightbox="image-1" data-title="tegninger"><img  src="images/gallery/thumb/tegning3.png"><p>Neque porro quisquam est</p></a>
+						
 
 					
 				  <div class="clearfix"> </div>
