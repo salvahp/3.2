@@ -11,17 +11,19 @@
 	 <div class="container">
 			<div class="contact-form">
 					<div class="col-md-6 contact-grid animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<form>
+				
+					<form action="mail.php" method="POST">
 						<p class="your-para">Navn:</p>
-						<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
+						<input name="name" type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
 						<p class="your-para">E-mail:</p>
-						<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
+						<input name="email" type="email" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
 						<p class="your-para">Besked til os:</p>
-						<textarea cols="77" rows="6" onfocus="this.value='';" onblur="if (this.value == '') {this.value = '';}"></textarea>
+						<textarea name="message" cols="77" rows="6" onfocus="this.value='';" onblur="if (this.value == '') {this.value = '';}"></textarea>
 						<div class="send">
 							<input type="submit" value="Send">
 						</div>
-					</form>
+						
+					</form> 
 				</div>
 				<div class="col-md-6 contact-in animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
 					<p class="sed-para"> Send os endelig en besked!</p>
