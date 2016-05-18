@@ -27,7 +27,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet" type="text/css">
 		</head>
 
-		<body>
+		<body id="landingbg">
 		<div id="wrapper" class="wrap fullheight">
 			<main>
 				<section id="myCounter"> 

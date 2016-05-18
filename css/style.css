@@ -100,6 +100,11 @@ body a:hover{
 }
 #gotosite{ }
 /*-- //landingpage --*/
+#landingbg {
+	background-image:url(../images/campus2.png);
+	background-position:center;
+	background-size:cover;
+}
 /*-- banner --*/
 .banner{
 	background: url(../images/campus1.png) no-repeat 0px 0px;
