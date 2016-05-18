@@ -261,6 +261,7 @@ p.ever{
 .crop-right {
     background-color: #ef7d43;
     padding: 2.15em 5em;
+    min-height: 301px;
 }
 .crop h3 {
     color:#ffffff;
@@ -921,12 +922,12 @@ ul.social-slide li i.mac{
 	background: #99cc33;	
 }
 a.callbacks_nav.callbacks2_nav.prev {
-background: transparent url("../images/2.png") no-repeat left top;
+background: transparent url("../images/kort.png") no-repeat left top;
 width:23px;
 height:23px;
 }
 a.callbacks_nav.callbacks2_nav.next{
-background: transparent url("../images/2.png") no-repeat -29px 0px;
+background: transparent url("../images/kort.png") no-repeat -29px 0px;
 width:23px;
 height:23px;
 }
@@ -1373,6 +1374,7 @@ h2.typoh2{
 }
 .crop-right {
     padding: 3.49em 3em;
+    min-height: 325px;
 }
 .crop h4 {
     font-size: 1.1em;
@@ -1381,7 +1383,7 @@ h2.typoh2{
     height: 325px;
 }
 .crop-left1 {
-    background: url(../images/3.jpg) no-repeat -57px 0px;
+    background: url(../images/kort.png) no-repeat -57px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1480,6 +1482,7 @@ p.sed-para {
     float: left;
     width: 33.33%;
     padding: 2.75em 2em;
+    min-height: 252px;
 }
 .crop p {
     font-size: 0.9em;
@@ -1490,6 +1493,7 @@ p.sed-para {
 }
 .crop-left1 {
     min-height: 252px;
+     height: 253px;
 }
 .crop h3 {
     font-size: 1.6em;
@@ -1613,6 +1617,8 @@ address {
 }
 .crop-right {
     padding: 1.95em 1em;
+    min-height: 249px;
+    height: 249px;
 }
 .crop-left iframe {
     height: 249px;
@@ -1678,6 +1684,7 @@ p.para1 {
     float: left;
     width: 100%;
     padding: 1em 2em;
+    min-height: 322px;
 }
 .ch-grid li {
     width: 200px;
