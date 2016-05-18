@@ -1,22 +1,56 @@
-css/_notes/dwsync.xml
-_notes/dwsync.xml
-_notes/dwsync.xml
-_notes/dwsync.xml
-images/_notes/dwsync.xml
-images/partnerelogo/_notes/dwsync.xml
-dwsync.xml
+
 _notes
 .DS_Store
-images/_notes/dwsync.xml
-inc/_notes/dwsync.xml
-css/_notes/dwsync.xml
-_notes/dwsync.xml
-css/_notes/dwsync.xml
-js/_notes/dwsync.xml
-_notes/dwsync.xml
-js/_notes/dwsync.xml
-css/_notes/dwsync.xml
-images/_notes/dwsync.xml
-inc/_notes/dwsync.xml
-js/_notes/dwsync.xml
-_notes/dwsync.xml
+
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+# =========================
+# DreamWeaver Files
+# =========================
+dwsync.xml
+
+
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
