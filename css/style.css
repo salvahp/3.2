@@ -1488,6 +1488,7 @@ p.sed-para {
     width: 33.33%;
     padding: 2.75em 2em;
     min-height: 252px;
+    height: 252px;
 }
 .crop p {
     font-size: 0.9em;
@@ -1589,6 +1590,8 @@ address {
 }
 .crop-right {
     padding: 2.85em 1em;
+    min-height: 252px;
+    height: 252px;
 }
 .banner-info {
     width: 61%;
@@ -1622,8 +1625,9 @@ address {
 }
 .crop-right {
     padding: 1.95em 1em;
-    min-height: 249px;
-    height: 249px;
+    min-height: 252px;
+    height: 252px;
+  
 }
 .crop-left iframe {
     height: 249px;
@@ -1689,7 +1693,8 @@ p.para1 {
     float: left;
     width: 100%;
     padding: 1em 2em;
-    min-height: 322px;
+    min-height: 252px;
+    height: 252px;
 }
 .ch-grid li {
     width: 200px;
