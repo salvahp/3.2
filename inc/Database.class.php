@@ -1,9 +1,9 @@
 <?php
 class Database
 {
-    private static $dbName = 'signups';
-    private static $dbHost = 'danudenx_dk';
-    private static $dbUsername = 'root';
+    private static $dbName = 'danudenx_dk';
+    private static $dbHost = 'danudenx.dk.mysql';
+    private static $dbUsername = 'danudenx_dk';
     private static $dbUserPassword = 'pKyLK7t2';
 
     private static $cont = null;
