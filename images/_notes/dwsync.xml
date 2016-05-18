@@ -11,7 +11,7 @@
 <file name="campus2.png" server="ftp.danudenx.dk//cbp/" local="131075318077647030" remote="131076033000000000" Dst="2" />
 <file name="dynamik.png" server="ftp.danudenx.dk//cbp/" local="131075318077927220" remote="131076033600000000" Dst="2" />
 <file name="kort.png" server="ftp.danudenx.dk//cbp/" local="131075318078007299" remote="131076033600000000" Dst="2" />
-<file name="loading.gif" server="ftp.danudenx.dk//cbp/" local="131075318078225334" remote="131076033600000000" Dst="2" />
+<file name="loading.gif" server="ftp.danudenx.dk//cbp/" local="131078971415745490" remote="131080415400000000" Dst="2" />
 <file name="LOGO.png" server="ftp.danudenx.dk//cbp/" local="131076098608358557" remote="131076033600000000" Dst="2" />
 <file name="kort2.png" server="ftp.danudenx.dk//cbp/" local="131075318078205311" remote="131076033600000000" Dst="2" />
 <file name="soci.png" server="ftp.danudenx.dk//cbp/" local="131075318078265354" remote="131076033600000000" Dst="2" />
@@ -38,4 +38,6 @@
 <file name="forskning.JPG" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080314472640952" remote="131080314470000000" Dst="2" />
 <file name="TorvetStudierumTrappe.png" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318076696175" remote="131075318070000000" Dst="2" />
 <file name="logo-us.png" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080462951076727" remote="131080462950000000" Dst="2" />
+<file name="logo-us.png" server="ftp.danudenx.dk//cbp/" local="131080462951076727" remote="131080415400000000" Dst="2" />
+<file name="logo.png" server="ftp.danudenx.dk//cbp/" local="131076098608358557" remote="131080415400000000" Dst="2" />
 </dwsync>

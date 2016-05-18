@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="header.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080464724148204" remote="131080464720000000" Dst="2" />
+<file name="header.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080494656820902" remote="131080494650000000" Dst="2" />
 <file name="footer.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080462962750837" remote="131080444620000000" Dst="2" />
 <file name="create_table.sql" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131074284790018126" remote="131074284790000000" Dst="2" />
 <file name="Database.class.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080364000000000" remote="131080364000000000" Dst="2" />
 <file name="Newsletter.class.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318078315376" remote="131075318070000000" Dst="2" />
 <file name="send.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318078335391" remote="131075318070000000" Dst="2" />
 <file name="create_table.sql" server="ftp.danudenx.dk//cbp/" local="131075318078325383" remote="131076033600000000" Dst="2" />
-<file name="Database.class.php" server="ftp.danudenx.dk//cbp/" local="131075318078305378" remote="131076033600000000" Dst="2" />
-<file name="footer.php" server="ftp.danudenx.dk//cbp/" local="131075318078325383" remote="131076033600000000" Dst="2" />
-<file name="header.php" server="ftp.danudenx.dk//cbp/" local="131080387507367320" remote="131080315200000000" Dst="2" />
+<file name="Database.class.php" server="ftp.danudenx.dk//cbp/" local="131080364000000000" remote="131080415400000000" Dst="2" />
+<file name="footer.php" server="ftp.danudenx.dk//cbp/" local="131080462962750837" remote="131080415400000000" Dst="2" />
+<file name="header.php" server="ftp.danudenx.dk//cbp/" local="131080464724148204" remote="131080415400000000" Dst="2" />
 <file name="Newsletter.class.php" server="ftp.danudenx.dk//cbp/" local="131075318078315376" remote="131076033600000000" Dst="2" />
 <file name="send.php" server="ftp.danudenx.dk//cbp/" local="131075318078335391" remote="131076033600000000" Dst="2" />
 <file name="dbconnect.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131079472493764458" remote="131079472490000000" Dst="2" />
 <file name="dbconnect.php" server="ftp.danudenx.dk//cbp/" local="131080314481337113" remote="131080309800000000" Dst="2" />
+<file name=".DS_Store" server="ftp.danudenx.dk//cbp/" local="131078770041864748" remote="131080415400000000" Dst="2" />
 </dwsync>
