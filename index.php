@@ -74,10 +74,11 @@
 				<iframe src="https://www.youtube.com/embed/ZZ5LpwO-An4" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><!-- Video -->
 			</div>
 			<div class="col-md-4 crop-right animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms"> <!-- info til højre  -->
-				<h3>Kom til borgermøde</h3>
+				<h3>Kom til </h3>
+				<h3>BORGERMØDE</h3s>
 				<h4>1. februar 2017</h4>
 				<h4>Kl. 19.00</h4>
-				<p>På Silkeborg Bibliotek</p>
+				<h5>På Silkeborg Bibliotek</h5>
 				
 			</div>
 			<div class="clearfix"></div>
