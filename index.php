@@ -74,11 +74,10 @@
 				<iframe src="https://www.youtube.com/embed/ZZ5LpwO-An4" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><!-- Video -->
 			</div>
 			<div class="col-md-4 crop-right animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms"> <!-- info til højre  -->
-				<h3>Opening Hours</h3>
-				<h4>Monday-Friday</h4>
-				<p>9:30am - 17:30pm</p>
-				<h4>Saturday</h4>
-				<p>10:00am - 18:30pm</p>
+				<h3>Kom til borgermøde</h3>
+				<h4>1. februar 2017</h4>
+				<h4>Kl. 19.00</h4>
+				<p>På Silkeborg Bibliotek</p>
 				
 			</div>
 			<div class="clearfix"></div>

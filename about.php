@@ -15,19 +15,13 @@
 				<img src="images/10.jpg" alt="">
 			</div>
 			<div class="col-md-7 about-grid1">
+            <h4>Et par ord om os</h4>
+				<p> Campus Bindslevs Plads er i fuld fart frem. Hvad der før var en stor parkeringsplads, er nu ved 	at blive til et centrum for liv, kultur og vidensdeling. Hen mod august 2017 bygger vi en stor parkeringskælder i to etager med et dynamisk campus ovenpå jorden.</p>
+			
+            
 				<h4>Et par ord om kampagnen</h4>
-				<p> Neque porro quisquam est, qui dolorem ipsum 
-				quia dolor sit amet, consectetur, adipisci velit, 
-				sed quia non numquam eius modi tempora incidunt ut 
-				labore et dolore magnam aliquam quaerat voluptatem. 
-				Ut enim ad minima veniam, quis nostrum exercitationem 
-				ullam corporis suscipit laboriosam, nisi ut aliquid 
-				ex ea comm.</p>
-				<p>Temporibus autem quibusdam et aut officiis debitis aut rerum 
-			necessitatibus saepe eveniet ut et voluptates repudiandae sint et 
-			molestiae non recusandae. Itaque earum rerum veniam, quis nostrum exercitationem 
-				ullam corporis suscipit minima veniam, quis nostrum laboriosam, nisi ut aliquid 
-				ex ea commodi consequatu Itaque earum.</p>
+				<p> For at skabe viden omkring projektet og udviklingen af det nye Campus Bindslevs Plads, var det relevant for os at skabe en kampagne, hvor borgeren i Silkeborg i fokus. </p>
+				
 			</div>
 			
 			<div class="clearfix"></div>

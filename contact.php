@@ -24,8 +24,8 @@
 					</form>
 				</div>
 				<div class="col-md-6 contact-in animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<p class="sed-para"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor.</p>
-					<p class="para1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.  </p>
+					<p class="sed-para"> Send os endelig en besked!</p>
+					<p class="para1">Vi er meget åbne for nye idéer til projekter og arbejde, som kan foregå på det nybyggede Campus Bindslevs Plads. Derfor skal du ikke tøve med at skrive til os. Hvad enten det handler om nye projekter, sjove aktiviter, eller bare noget, du synes, vi bør gøre anderledes. </p>
 					<div class="more-address"> 
 						<div class="address-more">
 							<p>Campus Bindslevs Plads</p>
