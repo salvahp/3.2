@@ -2,7 +2,7 @@
 <dwsync>
 <file name="index.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080392566303523" remote="131080392560000000" Dst="2" />
 <file name="about.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080379095293418" remote="131080379090000000" Dst="2" />
-<file name="contact.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080379095308424" remote="131080379090000000" Dst="2" />
+<file name="contact.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080482503792169" remote="131080482500000000" Dst="2" />
 <file name="landingpage.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318078455480" remote="131075318070000000" Dst="2" />
 <file name="typo.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318078455480" remote="131075318070000000" Dst="2" />
 <file name=".gitignore" server="ftp.danudenx.dk//cbp/" local="131080380307428568" remote="131080309800000000" Dst="2" />
@@ -32,4 +32,5 @@
 <file name="getuploadedimage.php" server="ftp.danudenx.dk//cbp/" local="131080314481317103" remote="131080281600000000" Dst="2" />
 <file name="home.php" server="ftp.danudenx.dk//cbp/" local="131080309800000000" remote="131080309800000000" Dst="2" />
 <file name="home.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080309800000000" remote="131080309800000000" Dst="2" />
+<file name="mail.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080482503852212" remote="131080482500000000" Dst="2" />
 </dwsync>
