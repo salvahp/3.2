@@ -2,10 +2,8 @@
 # Connect on localhost for user root
 # with password xxxxxxx to database userloginwebsystem 
 
-$dbc = mysqli_connect("localhost","root","","content_northside") or die (mysqli_connect_error() );
+$dbc = mysqli_connect("localhost","root","","imagedatabase") or die (mysqli_connect_error() );
 
-	mysql_connect("localhost", "root", "password") or die(mysql_error());
-	mysql_select_db("muratmoviedb") or die(mysql_error());
 
 # $dbc = mysqli_connect("localhost","root","Password","databasename") or die (mysqli_connect_error() );
 
