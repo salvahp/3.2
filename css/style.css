@@ -352,7 +352,7 @@ h3.tittle {
 }
 .footer h5 {
     font-size: 1.2em;
-    color: #193725;
+    color: #753f16;
     margin: 0;
 }
 .footer p {
@@ -488,7 +488,7 @@ line-height:1.8em;
   margin: 0 0 20px 0;
   text-align: center;
   font-size: 32px;
-  color:#193725;
+  color:#753f16;
 }
 .team-left{
 margin:0 22px;
@@ -840,7 +840,7 @@ top: 9%;
 }
 p.your-para {
     font-size: 1em;
-  color: #555;
+  color: #000;
   font-weight: 400;
 }
 .contact-grid input[type="text"], .contact-grid textarea {
@@ -884,7 +884,7 @@ p.para1 {
   line-height: 2em;
 }
 .address-left p a {
-  color: #555;
+  color: #000;
   font-size:1em;
 }
 .more-address{
@@ -935,7 +935,7 @@ p.para1 {
 .services-top h3 {
     font-size: 2.5em;
     font-weight: 400;
-    color: #193725;
+    color: #753f16;
     margin: 0px 0px 15px 0px;
 }
 .services-top p {
@@ -964,7 +964,7 @@ p.para1 {
 .other-serv h3 {
     font-size: 2em;
     font-weight: 400;
-    color: #193725;
+    color: #753f16;
     margin: 0px 0px 30px 13px;
 }
 .other-serv-grid h4 {
@@ -983,7 +983,7 @@ p.para1 {
 /*--services end here--*/
 /*--Typography--*/
 h3.title {
-    color: #193725;
+    color: #753f16;
     font-size: 2em;
 	 text-align:center;
 }
@@ -1442,18 +1442,18 @@ address {
 }
 .navbar-default .navbar-toggle {
 	border: none;
-	background-color:#193725 ;
+	background-color:#753f16 ;
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #fff;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #193725 ;
+	background-color: #753f16 ;
 }
 .navbar-nav {
 	float: none;
 	text-align: center;
-	background-color:#193725;
+	background-color:#753f16;
 	margin-top: 7px;
 }
 .nav > li > a {
@@ -1461,8 +1461,8 @@ address {
 }
 .navbar-collapse {
     border-top: 1px solid transparent;
-    -webkit-box-shadow: inset 0 1px 0 #193725;
-    box-shadow: inset 0 1px 0 #193725;
+    -webkit-box-shadow: inset 0 1px 0 #753f16;
+    box-shadow: inset 0 1px 0 #753f16;
 }
 }
 /*--responsive-design--*/
