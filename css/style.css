@@ -1284,6 +1284,10 @@ p.sed-para {
 }
 /*--responsive-design--*/
 @media (max-width:768px){
+.header{
+  position: inherit;
+  background-color: #ef7d43;
+}
 .navbar-default .navbar-nav > li > a {
 	font-size: 15px;
 }
