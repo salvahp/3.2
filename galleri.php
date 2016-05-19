@@ -22,7 +22,7 @@
         #$dbc=mysqli_connect("localhost","root","password");
 		#mysqli_select_db($dbc,"databaseimage");
 		
-		
+        #------ HER STARTER 1. galleri 
 		#query1  bliver brugt til at hente h3 inhold
 		$query1= mysqli_query($dbc, "SELECT `image`.`filename`, `image`.`description`, `project`.`projectname` FROM project
 		INNER JOIN image ON `image`.`project_id` = `project`.`project_id`
@@ -57,6 +57,7 @@
 				<div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">		
 				
 		<?php		
+		#------ HER STARTER 2. galleri 
 		#query2  bliver brugt til at hente h3 inhold
 		$query2= mysqli_query($dbc, "SELECT `image`.`filename`, `image`.`description`, `project`.`projectname` FROM project
 		INNER JOIN image ON `image`.`project_id` = `project`.`project_id`
@@ -91,6 +92,8 @@
 					<div class="clearfix"> </div>
 					<div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 		<?php				
+		
+		#------ HER STARTER 3. galleri 
 		#query4  bliver brugt til at hente h3 inhold
 		$query4= mysqli_query($dbc, "SELECT `image`.`filename`, `image`.`description`, `project`.`projectname` FROM project
 		INNER JOIN image ON `image`.`project_id` = `project`.`project_id`
