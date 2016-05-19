@@ -59,7 +59,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<section id="newsletterform">
 				
 				<h4>HJÆLP OS MED AT HJÆLPE DIG! </h4>
-                <h5>Hold dig opdateret på, hvad der sker på Campus Bindslevs Plads.</h5>
+                <h5>Hold dig opdateret på, hvad der sker på Campus Bindslevs Plads og tilmeld dig vores nyhedsbrev her!</h5>
 				<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
 					<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
 					<input type="submit" value="Tilmeld" name="signup-button" id="signup-button">
