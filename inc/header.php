@@ -50,6 +50,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="header-nav">
 				<nav class="navbar navbar-default">
 					<!-- Brand and toggle get grouped for better mobile display -->
+					
+
 					<div class="navbar-header">
 					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 						<span class="sr-only">Toggle navigation</span>
@@ -58,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="icon-bar"></span>
 					  </button>
 						<div class="logo animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<a class="navbar-brand" href="index.php"><img id="bannerlogo" src="images/logo-us.png"></a>
+							<a class="navbar-brand" href="home.php"><img id="bannerlogo" src="images/logo-us.png"></a>
 						</div>
 					</div>
 

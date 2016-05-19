@@ -20,7 +20,7 @@
 			</div>
 			<div class="clearfix"> </div>
 			<div class="footer-bottom">
-				<p>© 2016 Pest. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+				<!-- <p>© 2016 Pest. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p> -->
 			</div>
 		</div>
 	</div>

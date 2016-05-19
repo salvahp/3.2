@@ -2,8 +2,8 @@
 $email = $_POST['email'];
 $message = $_POST['message'];
 $formcontent="From: $name \n Message: $message";
-$recipient = "salvahp@gmail.com";
-$subject = "Contact Form";
+$recipient = "dan@prutter.nu";
+$subject = "kontakt fra cbp";
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
 
