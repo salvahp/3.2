@@ -101,7 +101,10 @@ body a:hover{
     display: block;
     letter-spacing: 1px;
 }
-#gotosite{ }
+#gotosite a:active{
+	background-color:#753f16;
+	}
+
 /*-- //landingpage --*/
 #landingbg {
 	background-image:url(../images/campus2.png);
@@ -318,7 +321,7 @@ h3.tittle {
 }
 
 .ch-info p a:hover {
-    color: #BD133A;
+    color: #753f16;
 }
 
 .ch-item:hover .ch-info-front {
@@ -438,7 +441,7 @@ width:100%;
   margin: 0 0 20px 0;
   text-align:center;
   font-size: 28px;
-  color: #f65a5b;
+  color: #753f16;
   font-weight: bold;
   }
 .about-info p {
@@ -545,40 +548,7 @@ top: 113% !important;
 background: url(../images/themes.png) no-repeat -24px 0px;
 }
 /*--//flexisel--*/
-.testimonial{
-  background: url(../images/drink.jpg) no-repeat 0px 0px;
-background-size:cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -ms-background-size: cover;
-  -moz-background-size: cover;
-min-height:420px;
-padding:80px 0 0 0;
-text-align:center;
-}
-.testimonial h3{
-  margin: 0 0 20px 0;
-  color:#99cc00;
-  font-size: 32px;
-}
-.testimonial p{
-color:#fff;
-font-size:13px;
-line-height:1.8em;
-width:69%;
-margin:0 auto 20px auto;
-}
-.testimonial h4{
-color:#fff;
-font-size:20px;
-font-weight:bold;
-margin:10px 0 0 0;
-}
-.testimonial h4 span{
-display:block;
-margin-top:5px;
-font-weight:normal;
-}
+
 /*-- Slider Part starts Here --*/
 #slider3,#slider4  {
   box-shadow: none;
@@ -812,7 +782,7 @@ ul.social-slide li i.mac{
   -ms-border-radius: 30px;
 }
 .callbacks_here a:after{
-	background: #99cc33;	
+	background: #753f16;	
 }
 a.callbacks_nav.callbacks2_nav.prev {
 background: transparent url("../images/kort.png") no-repeat left top;
@@ -891,7 +861,7 @@ p.para1 {
     padding: 1em 0;
 } 
 .point i {
-  color: #788cb6;
+  color: #753f16;
   font-size: 4em;
 }
 .location i {
@@ -1039,16 +1009,16 @@ h3.title {
   z-index: 0;
 }
 .badge-primary {
-  background-color: #03a9f4;
+  background-color: #753f16;
 }
 .badge-success {
-  background-color: #8bc34a;
+  background-color: #ef7d43;
 }
 .badge-warning {
-  background-color: #ffc107;
+  background-color: #753f16;
 }
 .badge-danger {
-  background-color: #e51c23;
+  background-color: #ef7d43;
 }
 .grid_3 p{
   line-height: 2em;
