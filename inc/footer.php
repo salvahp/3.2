@@ -4,11 +4,9 @@
 			<div class="col-md-4 footer-left animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Kontakt</h4>
 					<address>
-						<ul>
 							<li>Bindslevs Plads 14</li>
 							<li>8600 Silkeborg</li>
 							<li><abbr title="Phone">Tlf.:</abbr> 87 22 19 00</li>
-						</ul>
 					</address>
 			</div>
 
