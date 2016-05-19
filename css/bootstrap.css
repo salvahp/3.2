@@ -1279,10 +1279,12 @@ h3,
 h4,
 .h4 {
   font-size: 18px;
+  color:#fff;
 }
 h5,
 .h5 {
   font-size: 14px;
+  color:#fff;
 }
 h6,
 .h6 {
@@ -3006,7 +3008,7 @@ select[multiple].input-lg {
 .btn {
   display: inline-block;
   padding: 6px 12px;
-  margin-bottom: 0;
+  margin: 0.5em 0 2em 60em;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
@@ -3233,26 +3235,26 @@ fieldset[disabled] .btn-success.focus {
 }
 .btn-info {
   color: #fff;
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #ef7d43;
+  border-color: #ef7d43;
 }
 .btn-info:focus,
 .btn-info.focus {
   color: #fff;
-  background-color: #31b0d5;
-  border-color: #1b6d85;
+  background-color: #ef7d43;
+  border-color: #ef7d43;
 }
 .btn-info:hover {
   color: #fff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #d37433;
+  border-color: #d37433;
 }
 .btn-info:active,
 .btn-info.active,
 .open > .dropdown-toggle.btn-info {
   color: #fff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #ef7d43;
+  border-color: #ef7d43;
 }
 .btn-info:active:hover,
 .btn-info.active:hover,
@@ -3438,7 +3440,7 @@ fieldset[disabled] .btn-link:focus {
 .btn-lg,
 .btn-group-lg > .btn {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 1.3333333;
   border-radius: 6px;
 }
@@ -4220,8 +4222,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-fixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
-  max-height: 340px;
+  max-height: 340px;  
 }
+
 @media (max-device-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
@@ -6128,7 +6131,7 @@ button.close {
   word-spacing: normal;
   word-wrap: normal;
   white-space: normal;
-  background-color: #fff;
+  background-color:#fff
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
   border: 1px solid #ccc;

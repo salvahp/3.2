@@ -51,18 +51,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<!-- END COUNTDOWN --> 
 				</section>
 				<section id="gotosite" class="center-block btn "> 
-					<a class="btn btn-info btn-lg" href="home.php" role="button">Læs mere om Campus Bindslevs Plads</a> 
+					<a class="btn btn-info btn-lg" href="home.php" role="button">GÅ TIL SITE</a> 
 				</section>
 				
 			</main>
 			<!-- Newsletter form -->
 			<section id="newsletterform">
-				<h3>Nyhedsbrev </h3>
-				<p>Hold dig opdateret på hvad der sker på Campus Bindslevs Plads, hjælp os med at hjælpe dig</p>
+				
+				<h4>HJÆLP OS MED AT HJÆLPE DIG! </h4>
+                <h5>Hold dig opdateret på, hvad der sker på Campus Bindslevs Plads.</h5>
 				<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
 					<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
 					<input type="submit" value="Tilmeld" name="signup-button" id="signup-button">
-					<span class="arrow"></span>
 				</form>
 				<div id="response"></div>
 				

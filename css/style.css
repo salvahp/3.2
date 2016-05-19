@@ -94,7 +94,7 @@ body a:hover{
 	height:100vh;
 }
 .wrap{
-	padding-top:5em;
+	padding-top:2.5em;
     margin: 0 auto;
     max-width: 850px;
     min-width: 320px;
@@ -1480,7 +1480,6 @@ address {
 }
 /*--responsive-design--*/
 @media (max-width: 667px){
-
 }
 /*--responsive-design--*/
 @media (max-width: 640px){
