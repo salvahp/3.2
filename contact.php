@@ -26,8 +26,11 @@
 					</form> 
 				</div>
 				<div class="col-md-6 contact-in animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-					<p class="sed-para"> Send os endelig en besked!</p>
-					<p class="para1">Vi er meget åbne for nye idéer til projekter og arbejde, som kan foregå på det nybyggede Campus Bindslevs Plads. Derfor skal du ikke tøve med at skrive til os. Hvad enten det handler om nye projekter, sjove aktiviter, eller bare noget, du synes, vi bør gøre anderledes. </p>
+					<p class="sed-para"> Send os en besked!</p>
+					<p class="para1">Vi er meget åbne for nye idéer til projekter og arbejde, som kan foregå på det nybyggede Campus Bindslevs Plads. Derfor skal du ikke tøve med at skrive til os. Hvad enten det handler om nye projekter, sjove aktiviteter, eller bare noget, du synes, vi bør gøre anderledes. </br>
+
+Skriv til os her på siden, send os en besked på Facebook eller brug hashtagget #mitbindslevsplads for at vise os din gode idé. 
+ </p>
 					<div class="more-address"> 
 						<div class="address-more">
 							<p>Campus Bindslevs Plads</p>

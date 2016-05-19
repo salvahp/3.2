@@ -12,10 +12,16 @@
 							<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>Rethink læring</h1>
-									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-										sunt in culpa qui officia.</p>
+									<h1>Vidste du at... </h1>
+									<p>Bygningen bliver omkring 1500 m2, hvilket svarer til 600 skriveborde. </p>	
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
+								<div class="banner-info-left">
+									<h1>Vidste du at... </h1>
+									<p>Der i den nye parkeringskælder vil være plads til 174 biler. </p>
 									
 								</div>
 							</div>
@@ -23,23 +29,20 @@
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>FabLab</h1>
-									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-										sunt in culpa qui officia.</p>
-									
-								</div>
+									<h1>Vidste du at...</h1>
+									<p>“Markedsplads” betyder “et sted hvor der foregår handel eller udveksling” - På Bindslevs Plads vil det være udveksling af viden og idéer.</p>
+                              </div>
+                         
 							</div>
 						</li>
-						<li>
+                        
+                        <li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>Projekt Ny Læring</h1>
-									<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-										dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-										sunt in culpa qui officia.</p>
-									
-								</div>
+									<h1>Vidste du at...</h1>
+									<p>Logoet er en præcis kopi af formen på pladsen fra Google Maps. </p>
+                              </div>
+                         
 							</div>
 						</li>
 						</ul>
