@@ -73,10 +73,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<section id="gotosite" class="center-block btn "> 
 					<a class="btn btn-info btn-lg" href="home.php" role="button">GÅ TIL SITE</a> 
 				</section>
-				
-			</main>
-			<!-- Newsletter form -->
-			<section id="newsletterform">
+				<section id="newsletterform">
 				
 				<h4>HJÆLP OS MED AT HJÆLPE DIG! </h4>
                 <h5>Hold dig opdateret på, hvad der sker på Campus Bindslevs Plads og tilmeld dig vores nyhedsbrev her!</h5>
@@ -90,6 +87,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
 				<script src="js/lib.js"></script> 
 			</section>
+			</main>
+			<!-- Newsletter form -->
+			
 		</div>
 </body>
 </html>

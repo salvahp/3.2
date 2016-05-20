@@ -1292,8 +1292,8 @@ display: none;
 }
 #myCounter-mobile{
   display: block;
-  margin-right: auto;
-  margin-left: auto;
+  text-align: -webkit-center;
+  text-align: center;
 }
 }
 /*--responsive-design--*/
