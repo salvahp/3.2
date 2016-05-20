@@ -4,11 +4,9 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
-* {
 
-font-family: 'Roboto', sans-serif;
-}
 html, body{
+	font-family: 'Open Sans', sans-serif;
     font-size: 100%;
 	background:	#fff;
 	
@@ -221,10 +219,10 @@ h3.tittle {
 .ch-item {
 	width: 100%;
 	height: 100%;
-	border-radius: 50%;
 	-o-border-radius: 50%;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
+	border-radius: 50%;
 	position: relative;
 	cursor: default;
 	-webkit-perspective: 900px;
@@ -555,20 +553,18 @@ background: url(../images/themes.png) no-repeat -24px 0px;
 
 /*-- Slider Part starts Here --*/
 #slider3,#slider4  {
-  box-shadow: none;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
+  box-shadow: none;
   margin: 0 auto;
 }
 .rslides_tabs {
   list-style: none;
-  padding: 0;
   background: rgba(0,0,0,.25);
-  box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
   -moz-box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
   -webkit-box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
+  box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
   font-size: 18px;
-  list-style: none;
   margin: 0 auto 50px;
   max-width: 540px;
   padding: 10px 0;
@@ -774,16 +770,15 @@ ul.social-slide li i.mac{
   font-size:0;
   font-family: FontAwesome;
   visibility: visible;
-  display: block;
   height:14px;
   width:14px;
   display:inline-block;
   background: #ffffff;
-  border-radius: 30px;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   -o-border-radius: 30px;
   -ms-border-radius: 30px;
+  border-radius: 30px;
 }
 .callbacks_here a:after{
 	background: #753f16;	
@@ -1292,8 +1287,8 @@ display: none;
 }
 #myCounter-mobile{
   display: block;
-  text-align: -webkit-center;
   text-align: center;
+  text-align: -webkit-center;
 }
 }
 /*--responsive-design--*/
