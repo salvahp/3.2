@@ -103,8 +103,11 @@ body a:hover{
 }
 #gotosite a:active{
 	background-color:#753f16;
-
+  
 	}
+#myCounter-mobile{
+  display: none;
+}
 
 /*-- //landingpage --*/
 #landingbg {
@@ -1283,6 +1286,16 @@ p.sed-para {
     margin: 2em 0 0;
 }
 }
+@media (max-width:870px){
+#myCounter{
+display: none;
+}
+#myCounter-mobile{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
 /*--responsive-design--*/
 @media (max-width:768px){
 .header{
@@ -1519,6 +1532,10 @@ p.para1 {
     min-height: 200px;
 }
 }
+@media (max-width: 550px){
+#myCounter-mobile{
+  display: none;
+}}
 /*--responsive-design--*/
 @media (max-width: 480px){
 .banner-info-left h1 {

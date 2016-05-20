@@ -3011,7 +3011,7 @@ select[multiple].input-lg {
 .btn {
   display: inline-block;
   padding: 6px 12px;
-  margin: 0.5em 0 2em 60em;
+  margin: 0.5em 0 2em 0em;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
