@@ -6,7 +6,6 @@
 #newsletterform {
 
 	height:auto;
-    font-family: 'Raleway', sans-serif;
     margin: 0 auto;
     max-width: 780px;
     min-width: 320px;
@@ -16,31 +15,7 @@
     position: relative;
 }
 
-
-#newsletterform h3 {
-    font-family: 'Raleway', sans-serif;
-    display: block;
-    font-size:26px;
-    font-weight:400;
-    line-height:1.2;
-    color:#fff;
-    text-transform: uppercase;
-    text-align: center;
-    padding-bottom:20px;
-    margin: 0 auto 30px auto;
-    border-bottom:1px solid #fff;
-    width:60%;
-}
-
-#newsletterform p {
-    font-size:14px;
-    line-height:26px;
-    margin-bottom:25px;
-    color:#fff;
-}
-
 #newsletterform input {
-    font-family: 'Raleway', sans-serif;
     font-size: 16px;
     font-weight:500;
     display: block;
@@ -88,9 +63,6 @@
     width: 320px;
 }
 
-#newsletterform #response p {
-    margin: 0
-}
 
 #newsletterform .loading {
     background: url("../images/landingloading.gif") no-repeat center 20px;
@@ -98,13 +70,6 @@
 
 @media only screen and (max-width:769px) {
 
-    #newsletterform .wrap {
-        padding: 40px 25px;
-    }
-
-    #newsletterform .arrow {
-        display: none;
-    }
 
     #newsletterform input {
         width: 70%;
@@ -119,9 +84,5 @@
 }
 
 @media only screen and (max-width:600px) {
-
-    #newsletterform h3 {
-        width: 70%;
-    }
 
 }
