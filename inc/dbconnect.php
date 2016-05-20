@@ -2,7 +2,7 @@
 # Connect on localhost for user root
 # with password xxxxxxx to database userloginwebsystem 
 
-$dbc = mysqli_connect("localhost","root","","imagedatabase") or die (mysqli_connect_error() );
+$dbc = mysqli_connect("danudenx.dk.mysql","danudenx_dk","pKyLK7t2","danudenx_dk") or die (mysqli_connect_error() );
 
 
 # $dbc = mysqli_connect("localhost","root","Password","databasename") or die (mysqli_connect_error() );
