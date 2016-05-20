@@ -12,7 +12,7 @@
 			<div class="contact-form">
 					<div class="col-md-6 contact-grid animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 				
-					<form action="mail.php" method="POST">
+					<form action="inc/mail.php" method="POST">
 						<p class="your-para">Navn:</p>
 						<input name="name" type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
 						<p class="your-para">E-mail:</p>

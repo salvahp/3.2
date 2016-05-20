@@ -47,7 +47,8 @@
 											<p>Vi vil på biblioteket renoncere på den klassiske institutions ønske om at være en velafgrænset silo og i stedet anerkende det faktum at fremtiden og vores egen forudsætning ligger i viljen til samarbejde.</p>
 										</div>
 									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
+								</li>
+								<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/hslogo.png" alt="">
 										<div class="team-bottom">
@@ -55,7 +56,8 @@
 											<p>Vi vil bidrage aktivt til at drømmen om fællesarealer, der byder på innovative og fleksible løsninger centreret omkring læring, kreativitet og kultur til glæde og gavn for vores elever, medarbejdere, det lokale erhvervsliv men især unge borgere i Silkeborg.</p>
 										</div>
 									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
+								</li>
+								<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/kreativeskolelogo.png" alt="">
 										<div class="team-bottom">
@@ -63,15 +65,8 @@
 											<p>Bindslevs Plads er et vindue, der åbnes til et mangfoldigt kulturliv på tværs af offentlige og private skel, hvor etablerede institutioner og foreningsdrevne virksomheder sammen bidrager til en høj grad af egenkultur – en kultur, der skabes af deltagernes egen aktivitet. </p>
 										</div>
 									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
-									<div class="team-left">
-										<img src="images/partnerelogo/medborgerhuslogo.png" alt="">
-										<div class="team-bottom">
-											<h4>Medborgerhuset</h4>
-											<p>blablabla</p>
-										</div>
-									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
+								</li>
+								<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/silkeborglogo.png" alt="">
 										<div class="team-bottom">
@@ -79,7 +74,8 @@
 											<p>I folkeskolerne arbejder vi ud fra den fælles læringsforståelse, at læring er en aktiv proces hos den, der lærer. Vi ønsker, at børn og unge får rum til at lære. Læring sker i samspil med andre børn og unge, forældre, professionelle og frivillige – både fysisk og virtuelt. </p>
 										</div>
 									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
+								</li>
+								<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/thlanghfvuclogo.png" alt="">
 										<div class="team-bottom">
@@ -87,7 +83,8 @@
 											<p>Vi ser netop samarbejdet omkring ny læring, som kernen i projektet, og den læring kræver helt nye og anderledes rammer, for at kunne udfolde sig. De rammer skal Campus Bindslevs Plads udgøre i fremtiden. </p>
 										</div>
 									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
+								</li>
+								<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/thlangslogo.png" alt="">
 										<div class="team-bottom">
@@ -95,15 +92,19 @@
 											<p>Vi håber, at vi får lavet et attraktivt samlingssted og et endnu bedre og aktivt studiemiljø. Institutionerne tilsammen råder over unikke indendørsfaciliteter, men vi mangler et godt udendørsareal.</p>
 										</div>
 									</div>
-								</li><li class="nbs-flexisel-item" style="width: 285px;">
+								</li>
+								<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/ungdomsskolelogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Ungdomsskole</h4>
-											<p>blablabla</p>
+											<p>Vi ser frem til et spændende og innovativt samarbejde.</p>
 										</div>
 									</div>
-								</li></ul><div class="nbs-flexisel-nav-left" style="top: 157.5px;"></div><div class="nbs-flexisel-nav-right" style="top: 157.5px;"></div></div></div>
+								</li></ul>
+								<div class="nbs-flexisel-nav-left" style="top: 157.5px;"></div><div class="nbs-flexisel-nav-right" style="top: 157.5px;"></div>
+								</div>
+								</div>
 								<script type="text/javascript">
 										$(window).load(function() {
 											$("#flexiselDemo1").flexisel({

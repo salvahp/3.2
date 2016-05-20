@@ -8,7 +8,7 @@ $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
 
 header( 'HTTP/1.1 301 Moved Permanently' );
-header( 'Location: ./contact.php' );
+header( 'Location: ../contact.php' );
 exit;
 
 ?>
