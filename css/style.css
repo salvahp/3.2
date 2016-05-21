@@ -130,7 +130,6 @@ body a:hover{
     margin: 12em 0 0;
 }
 .banner-info-left h1 {
-    text-transform: capitalize;
     font-size: 2.5em;
     color: #753f16;
     margin: 0;
@@ -373,6 +372,7 @@ address {
     color:#CECECE;
     font-size: 1em;
 }
+
 .footer-bottom p {
     color: #CECECE;
     font-size: 0.5em;
@@ -803,6 +803,9 @@ top: 9%;
 }
 /*-- Slider part Ends Here --*/
 /*-- //about-page --*/
+
+.aboutp {
+	font-style: italic;}
 /*--contact--*/
 .contact-section {
     padding: 4em 0 0;
@@ -853,7 +856,7 @@ p.para1 {
   line-height: 2em;
 }
 .address-left p a {
-  color: #000;
+  color: #ef7d43;
   font-size:1em;
 }
 .more-address{

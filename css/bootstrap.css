@@ -206,6 +206,7 @@ th {
     content: " (" attr(href) ")";
   }
   abbr[title]:after {
+	 
     content: " (" attr(title) ")";
   }
   a[href^="#"]:after,
@@ -1271,11 +1272,12 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+  color:#753f16
 }
 h3,
 .h3 {
   font-size: 24px;
-  text-transform: capitalize;
+ /* text-transform: capitalize;*/
   
 }
 h4,
@@ -1286,7 +1288,8 @@ h4,
 h5,
 .h5 {
   font-size: 14px;
-  color:#fff;
+  color:#fff; 
+
 }
 h6,
 .h6 {
@@ -1473,8 +1476,8 @@ dd {
 }
 abbr[title],
 abbr[data-original-title] {
-  cursor: help;
-  border-bottom: 1px dotted #777;
+  cursor: pointer;
+  border-bottom: 1px #000;
 }
 .initialism {
   font-size: 90%;

@@ -67,6 +67,9 @@
 #newsletterform .loading {
     background: url("../images/landingloading.gif") no-repeat center 20px;
 }
+.newsletter {
+	 font-weight:bolder;
+	}
 
 @media only screen and (max-width:769px) {
 

@@ -1,6 +1,6 @@
 <?php 
-	$thisPage="Om kampagnen";
-	$title ="Campus Bindslevs Plads - Om kampagnen";
+	$thisPage="Om os";
+	$title ="Campus Bindslevs Plads - Om os";
 	include "inc/header.php";?>
 <!-- banner -->
 	<div class="banner-1">
@@ -16,12 +16,12 @@
 			</div>
 			<div class="col-md-7 about-grid1">
             <h4>Et par ord om os</h4>
-				<p> Campus Bindslevs Plads er i fuld fart frem. Hvad der før var en stor parkeringsplads, er nu ved 	at blive til et centrum for liv, kultur og vidensdeling. Hen mod august 2017 bygger vi en stor parkeringskælder i to etager med et dynamisk campus ovenpå jorden.</p>
-			
-            
-				<h4>Et par ord om kampagnen</h4>
-				<p> For at skabe viden omkring projektet og udviklingen af det nye Campus Bindslevs Plads, var det relevant for os at skabe en kampagne, hvor borgeren i Silkeborg i fokus. </p>
-				
+				<p> Campus Bindslevs Plads er i fuld fart frem. Hvad der før var en stor parkeringsplads, er nu ved at blive til et centrum for liv, kultur og vidensdeling. Hen mod august 2017 bygger vi en stor parkeringskælder i to etager med et campus ovenpå jorden.  <br>
+<br>
+Visionen bag bygger på kreativitet, dynamik og tanken om at skabe en markedsplads, hvor du som borger sammen med venner, familie eller studiekammerater kan mødes, udveksle viden og afprøve nye idéer i de rammer, som Campus Bindslevs Plads tilbyder.  <br>
+<br>
+Det bliver aktiviteterne, der afgør, hvilket slags byrum Campus Bindslevs Plads skal være. Det vil sige, at det er dig, som borger, der bestemmer, hvad du selv vil have ud af pladsen. 
+</p>			
 			</div>
 			
 			<div class="clearfix"></div>
@@ -30,21 +30,18 @@
 <!-- team -->
 <div class="team">
 		<div class="team-info">
-			<h3>Vores samarbejdspartnere</h3>
+			<h3>Det siger vores samarbejdspartnere</h3>
 		</div>
 		<!-- flex-slider -->
 			<div class="work-bottom animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<div class="nbs-flexisel-container"><div class="nbs-flexisel-inner"><ul id="flexiselDemo1" class="nbs-flexisel-ul" style="left: -285px; display: block;">			
-							
-								
-								
+							<div class="nbs-flexisel-container"><div class="nbs-flexisel-inner"><ul id="flexiselDemo1" class="nbs-flexisel-ul" style="left: -285px; display: block;">				
 								
 							<li class="nbs-flexisel-item" style="width: 285px;">
 									<div class="team-left">
 										<img src="images/partnerelogo/biblogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Bibliotekerne</h4>
-											<p>Vi vil på biblioteket renoncere på den klassiske institutions ønske om at være en velafgrænset silo og i stedet anerkende det faktum at fremtiden og vores egen forudsætning ligger i viljen til samarbejde.</p>
+											<p class="aboutp">"Vi vil på biblioteket renoncere på den klassiske institutions ønske om at være en velafgrænset silo og i stedet anerkende det faktum at fremtiden og vores egen forudsætning ligger i viljen til samarbejde."</p>
 										</div>
 									</div>
 								</li>
@@ -53,7 +50,7 @@
 										<img src="images/partnerelogo/hslogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Buisness College</h4>
-											<p>Vi vil bidrage aktivt til at drømmen om fællesarealer, der byder på innovative og fleksible løsninger centreret omkring læring, kreativitet og kultur til glæde og gavn for vores elever, medarbejdere, det lokale erhvervsliv men især unge borgere i Silkeborg.</p>
+											<p class="aboutp">"Vi vil bidrage aktivt til at drømmen om fællesarealer, der byder på innovative og fleksible løsninger centreret omkring læring, kreativitet og kultur til glæde og gavn for vores elever, medarbejdere, det lokale erhvervsliv men især unge borgere i Silkeborg."</p>
 										</div>
 									</div>
 								</li>
@@ -62,7 +59,7 @@
 										<img src="images/partnerelogo/kreativeskolelogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Den Kreative Skole</h4>
-											<p>Bindslevs Plads er et vindue, der åbnes til et mangfoldigt kulturliv på tværs af offentlige og private skel, hvor etablerede institutioner og foreningsdrevne virksomheder sammen bidrager til en høj grad af egenkultur – en kultur, der skabes af deltagernes egen aktivitet. </p>
+											<p class="aboutp">"Bindslevs Plads er et vindue, der åbnes til et mangfoldigt kulturliv på tværs af offentlige og private skel, hvor etablerede institutioner og foreningsdrevne virksomheder sammen bidrager til en høj grad af egenkultur – en kultur, der skabes af deltagernes egen aktivitet."</p>
 										</div>
 									</div>
 								</li>
@@ -71,7 +68,7 @@
 										<img src="images/partnerelogo/silkeborglogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Folkeskolen i Silkeborg</h4>
-											<p>I folkeskolerne arbejder vi ud fra den fælles læringsforståelse, at læring er en aktiv proces hos den, der lærer. Vi ønsker, at børn og unge får rum til at lære. Læring sker i samspil med andre børn og unge, forældre, professionelle og frivillige – både fysisk og virtuelt. </p>
+											<p class="aboutp">"I folkeskolerne arbejder vi ud fra den fælles læringsforståelse, at læring er en aktiv proces hos den, der lærer. Vi ønsker, at børn og unge får rum til at lære. Læring sker i samspil med andre børn og unge, forældre, professionelle og frivillige – både fysisk og virtuelt."</p>
 										</div>
 									</div>
 								</li>
@@ -80,7 +77,7 @@
 										<img src="images/partnerelogo/thlanghfvuclogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Th Langs HF & VUC</h4>
-											<p>Vi ser netop samarbejdet omkring ny læring, som kernen i projektet, og den læring kræver helt nye og anderledes rammer, for at kunne udfolde sig. De rammer skal Campus Bindslevs Plads udgøre i fremtiden. </p>
+											<p class="aboutp">"Vi ser netop samarbejdet omkring ny læring, som kernen i projektet, og den læring kræver helt nye og anderledes rammer, for at kunne udfolde sig. De rammer skal Campus Bindslevs Plads udgøre i fremtiden. "</p>
 										</div>
 									</div>
 								</li>
@@ -89,7 +86,7 @@
 										<img src="images/partnerelogo/thlangslogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Th Langs Skole</h4>
-											<p>Vi håber, at vi får lavet et attraktivt samlingssted og et endnu bedre og aktivt studiemiljø. Institutionerne tilsammen råder over unikke indendørsfaciliteter, men vi mangler et godt udendørsareal.</p>
+											<p class="aboutp">"Vi håber, at vi får lavet et attraktivt samlingssted og et endnu bedre og aktivt studiemiljø. Institutionerne tilsammen råder over unikke indendørsfaciliteter, men vi mangler et godt udendørsareal."</p>
 										</div>
 									</div>
 								</li>
@@ -98,7 +95,7 @@
 										<img src="images/partnerelogo/ungdomsskolelogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Ungdomsskole</h4>
-											<p>Vi ser frem til et spændende og innovativt samarbejde.</p>
+											<p>"Vi ser frem til et spændende og innovativt samarbejde med Campus Bindslevs Plads."</p>
 										</div>
 									</div>
 								</li></ul>

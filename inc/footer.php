@@ -6,16 +6,16 @@
 					<address>
 							<li>Bindslevs Plads 14</li>
 							<li>8600 Silkeborg</li>
-							<li><abbr title="Phone">Tlf.:</abbr> 87 22 19 00</li>
+							<li><abbr title="Phone">Tlf. :87 22 19 00 </abbr> </li>
 					</address>
 			</div>
 
 			<div class="col-md-4 footer-left animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Følg os</h4>
 				<div class="soci">
-					<li><a href="#"><i class="f-1"> </i></a></li>
-					<li><a href="#"><i class="t-1"> </i></a></li>
-					<li><a href="#"><i class="g-1"> </i></a></li>
+					<li><a href="https://www.facebook.com/campusbindslevsplads/"><i class="f-1"> </i></a></li>
+					<li><a href="https://www.instagram.com/explore/tags/mitbindslevsplads/"><i class="t-1"> </i></a></li>
+					<li><a href="https://twitter.com/hashtag/mitbindslevsplads"><i class="g-1"> </i></a></li>
 				</div>
 			</div>
 			<div class="clearfix"> </div>
