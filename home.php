@@ -12,16 +12,16 @@
 							<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>Vidste du at... </h1>
-									<h2>Bygningen bliver omkring 1500 m2, hvilket svarer til 600 skriveborde. </h2>	
+									<h1>Vidste du at </h1>
+									<h2 class="slidertekst">Bygningen bliver omkring 1500 m2, hvilket svarer til 600 skriveborde. </h2>	
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>Vidste du at... </h1>
-									<h2>Der i den nye parkeringskælder vil være plads til 174 biler. </h2>
+									<h1>Vidste du at </h1>
+									<h2 class="slidertekst">Der i den nye parkeringskælder vil være plads til 174 biler. </h2>
 									
 								</div>
 							</div>
@@ -29,8 +29,8 @@
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>Vidste du at...</h1>
-									<h2>“Markedsplads” betyder “et sted hvor der foregår handel eller udveksling” - På Bindslevs Plads vil det være udveksling af viden og idéer.</h2>
+									<h1>Vidste du at</h1>
+									<h2 class="slidertekst">“Markedsplads” betyder “et sted hvor der foregår handel eller udveksling” - På Bindslevs Plads vil det være udveksling af viden og idéer.</h2>
                               </div>
                          
 							</div>
@@ -39,8 +39,8 @@
                         <li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h1>Vidste du at...</h1>
-									<h2>Logoet er en præcis kopi af formen på pladsen fra Google Maps. </h2>
+									<h1>Vidste du at</h1>
+									<h2 class="slidertekst">Logoet er en præcis kopi af formen på pladsen fra Google Maps. </h2>
                               </div>
                          
 							</div>
