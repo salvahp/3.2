@@ -94,14 +94,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!-- Newsletter form -->
 			
 	</div>
-	<script type="text/javascript">
-    var _mfq = _mfq || [];
-    (function() {
-        var mf = document.createElement("script");
-        mf.type = "text/javascript"; mf.async = true;
-        mf.src = "//cdn.mouseflow.com/projects/039f6ebf-dd8a-465c-99a5-bbe21e2a881e.js";
-        document.getElementsByTagName("head")[0].appendChild(mf);
-    })();
-</script>	
+<script type="text/javascript">
+var _mfq = _mfq || [];
+  (function() {
+    var mf = document.createElement("script");
+    mf.type = "text/javascript"; mf.async = true;
+    mf.src = "//cdn.mouseflow.com/projects/bfc64322-4178-43ea-b1af-6cf738151b9f.js";
+    document.getElementsByTagName("head")[0].appendChild(mf);
+  })();
+</script>
 </body>
 </html>
