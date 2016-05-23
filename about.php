@@ -1,5 +1,5 @@
 <?php 
-	$thisPage="Om os";
+	$thisPage="Om";
 	$title ="Campus Bindslevs Plads - Om os";
 	$metakeywords ="Kampagneside, Om, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune,";
 	$metadescription ="Kampagneside om Campus Bindslevs Plads, læs om hvem vi er og hold dig opdateret på det nye fælles byrum og laboratorium til læring, kreativitet og kultur";
