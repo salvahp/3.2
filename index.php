@@ -10,13 +10,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 		<head>
 		<title>Campus Bindslev Plads</title>
+        <meta name="robots" content="noindex, nofollow">
 		<link rel="icon" href="favicon.png?" type="image/png">
 		
 		<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="keywords" content="Kampagneside, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, " />
-        <meta name="description" content="Kampagneside for Campus Bindslevs Plads, hold dig opdateret på projektet her!" />
+        <meta name="description" content="Kampagneside for Campus Bindslevs Plads, hold dig opdateret på det nye fælles byrum, laboratorium til læring, kreativitet og kultur. " />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<!-- //for-mobile-apps -->
