@@ -45,6 +45,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </head>
 
 <body>
+<?php include_once("analyticstracking.php") ?>
 <!-- header -->
 	<div class="header">
 		<div class="container">
