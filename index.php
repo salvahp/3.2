@@ -16,8 +16,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Kampagneside, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, " />
-        <meta name="description" content="Kampagneside for Campus Bindslevs Plads, hold dig opdateret på det nye fælles byrum, laboratorium til læring, kreativitet og kultur. " />
+		<meta name="keywords" content="Kampagneside, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune" />
+        <meta name="description" content="Kampagneside for Campus Bindslevs Plads, hold dig opdateret på det nye fælles byrum og laboratorium til læring, kreativitet og kultur. " />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<!-- //for-mobile-apps -->
