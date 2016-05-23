@@ -46,5 +46,14 @@
  new WOW().init();
 </script>
 <!-- //animation-effect -->
+<script type="text/javascript">
+    var _mfq = _mfq || [];
+    (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.async = true;
+        mf.src = "//cdn.mouseflow.com/projects/039f6ebf-dd8a-465c-99a5-bbe21e2a881e.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script>
 </body>
 </html>
