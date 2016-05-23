@@ -1,6 +1,8 @@
 <?php 
 	$thisPage="Galleri";
 	$title ="Campus Bindslevs Plads - Galleri";
+	$metakeywords ="Kampagneside, Galleri, billeder, tegninger, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune";
+	$metadescription ="Kampagneside for Campus Bindslevs Plads, se vores galleri og find billeder af projektet og bygningen samt hold dig opdateret på det nye fælles byrum og laboratorium til læring, kreativitet og kultur.";
 	include "inc/header.php";?><head>
 <link rel="stylesheet" href="css/lightbox.css">
 </head>

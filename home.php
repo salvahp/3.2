@@ -1,6 +1,8 @@
 <?php 
 	$thisPage="Home";
 	$title ="Campus Bindslevs Plads - Forside";
+	$metakeywords ="Kampagneside, Forside, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune, video, Projekter";
+	$metadescription ="Kampagneside for Campus Bindslevs Plads, Forside hvor du kan se en info video og følge med i de forskellige projekter";
 	include "inc/header.php";?>
 
 <!-- banner -->
