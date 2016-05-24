@@ -20,7 +20,7 @@
             <h4>Et par ord om os</h4>
 				<p> Campus Bindslevs Plads er i fuld fart frem. Hvad der før var en stor parkeringsplads, er nu ved at blive til et centrum for liv, kultur og vidensdeling. Hen mod august 2017 bygger vi en stor parkeringskælder i to etager med et campus ovenpå jorden.  <br>
 <br>
-Visionen bag bygger på kreativitet, dynamik og tanken om at skabe en markedsplads, hvor du som borger sammen med venner, familie eller studiekammerater kan mødes, udveksle viden og afprøve nye idéer i de rammer, som Campus Bindslevs Plads tilbyder.  <br>
+Visionen bag projektet bygger på kreativitet, dynamik og tanken om at skabe en markedsplads, hvor du som borger sammen med venner, familie eller studiekammerater kan mødes, udveksle viden og afprøve nye idéer i de rammer, som Campus Bindslevs Plads tilbyder.  <br>
 <br>
 Det bliver aktiviteterne, der afgør, hvilket slags byrum Campus Bindslevs Plads skal være. Det vil sige, at det er dig, som borger, der bestemmer, hvad du selv vil have ud af pladsen. 
 </p>			
@@ -97,7 +97,7 @@ Det bliver aktiviteterne, der afgør, hvilket slags byrum Campus Bindslevs Plads
 										<img src="images/partnerelogo/ungdomsskolelogo.png" alt="">
 										<div class="team-bottom">
 											<h4>Silkeborg Ungdomsskole</h4>
-											<p>"Vi ser frem til et spændende og innovativt samarbejde med Campus Bindslevs Plads."</p>
+											<p class="aboutp">"Vi ser frem til et spændende og innovativt samarbejde med Campus Bindslevs Plads."</p>
 										</div>
 									</div>
 								</li></ul>

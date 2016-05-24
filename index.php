@@ -33,7 +33,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div id="wrapper" class="wrap fullheight">
 			<main>
 				<section id="myCounter"> 
-					
+					<h1 class="text-center">CAMPUS BINDSLEVS PLADS ÅBNER OM:</h1>
 					<!-- START COUNTDOWN --> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
@@ -73,7 +73,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<!-- END COUNTDOWN --> 
 				</section>
 				<section id="gotosite" class="center-block btn "> 
-					<a class="btn btn-info btn-lg" href="home.php" role="button">GÅ TIL SITE</a> 
+					<a class="btn btn-info btn-lg" href="hjem.php" role="button">GÅ TIL SITE</a> 
 				</section>
 				<section id="newsletterform">
 				

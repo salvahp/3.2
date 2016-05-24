@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080482503842205" remote="131080482500000000" Dst="2" />
-<file name="about.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080379095293418" remote="131080379090000000" Dst="2" />
-<file name="contact.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080482503792169" remote="131080482500000000" Dst="2" />
-<file name="landingpage.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318078455480" remote="131075318070000000" Dst="2" />
-<file name="typo.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318078455480" remote="131075318070000000" Dst="2" />
+<file name="index.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131085678022128814" remote="131085678020000000" Dst="2" />
 <file name=".gitignore" server="ftp.danudenx.dk//cbp/" local="131080486194695031" remote="131080414800000000" Dst="2" />
-<file name="about.php" server="ftp.danudenx.dk//cbp/" local="131080379095293418" remote="131080309800000000" Dst="2" />
-<file name="contact.php" server="ftp.danudenx.dk//cbp/" local="131080482503792169" remote="131080415400000000" Dst="2" />
 <file name="favicon.png" server="ftp.danudenx.dk//cbp/" local="131075318075745431" remote="131076033000000000" Dst="2" />
 <file name="galleri.php" server="ftp.danudenx.dk//cbp/" local="131080379095373474" remote="131080309800000000" Dst="2" />
 <file name="index.php" server="ftp.danudenx.dk//cbp/" local="131080482503842205" remote="131080415400000000" Dst="2" />
-<file name="landingpage.php" server="ftp.danudenx.dk//cbp/" local="131075318078455480" remote="131080315800000000" Dst="2" />
-<file name="typo.php" server="ftp.danudenx.dk//cbp/" local="131075318078455480" remote="131076033600000000" Dst="2" />
 <file name=".DS_Store" server="ftp.danudenx.dk//cbp/" local="131080314472540872" remote="131080279800000000" Dst="2" />
-<file name="upload.php" server="ftp.danudenx.dk//cbp/" local="131080314481347120" remote="131080281600000000" Dst="2" />
-<file name="upload.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080314481347120" remote="131080314480000000" Dst="2" />
-<file name="uploadform.php" server="ftp.danudenx.dk//cbp/" local="131080314481357127" remote="131080281600000000" Dst="2" />
 <file name=".DS_Store" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131078770041844729" remote="131078770040000000" Dst="2" />
 <file name=".gitignore" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080486194695031" remote="131080486190000000" Dst="2" />
 <file name="favicon.png" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131075318075745431" remote="131075318070000000" Dst="2" />
 <file name="galleri.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131081404249382325" remote="131081404240000000" Dst="2" />
-<file name="uploadform.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080314481357127" remote="131080314480000000" Dst="2" />
-<file name="getimage.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080314481307091" remote="131080314480000000" Dst="2" />
-<file name="getuploadedimage.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080314481317103" remote="131080314480000000" Dst="2" />
-<file name="first try at db upload.rar" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080314481297093" remote="131080314480000000" Dst="2" />
-<file name="first try at db upload.rar" server="ftp.danudenx.dk//cbp/" local="131080314481297093" remote="131080281600000000" Dst="2" />
-<file name="getimage.php" server="ftp.danudenx.dk//cbp/" local="131080314481307091" remote="131080281600000000" Dst="2" />
-<file name="getuploadedimage.php" server="ftp.danudenx.dk//cbp/" local="131080314481317103" remote="131080281600000000" Dst="2" />
-<file name="home.php" server="ftp.danudenx.dk//cbp/" local="131080309800000000" remote="131080309800000000" Dst="2" />
-<file name="home.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080309800000000" remote="131080309800000000" Dst="2" />
-<file name="mail.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131080482503852212" remote="131080482500000000" Dst="2" />
-<file name="mail.php" server="ftp.danudenx.dk//cbp/" local="131080482503852212" remote="131080415400000000" Dst="2" />
+<file name="hjem.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131085691735101131" remote="131085691730000000" Dst="2" />
+<file name="kontakt.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131084749438842746" remote="131084749430000000" Dst="2" />
+<file name="om.php" server="C:/xampp/htdocs/eaaa/3.2Testing/" local="131085704014962794" remote="131085704010000000" Dst="2" />
 </dwsync>

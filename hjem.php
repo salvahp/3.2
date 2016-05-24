@@ -1,5 +1,5 @@
 <?php 
-	$thisPage="Home";
+	$thisPage="Hjem";
 	$title ="Campus Bindslevs Plads - Forside";
 	$metakeywords ="Kampagneside, Forside, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune, video, Projekter";
 	$metadescription ="Kampagneside for Campus Bindslevs Plads, Forside hvor du kan se en info video og følge med i de forskellige projekter";
@@ -11,6 +11,14 @@
 			<section class="slider">
 					<div class="flexslider">
 						<ul class="slides">
+						<li>
+							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
+								<div class="banner-info-left">
+									<h1>VELKOMMEN TIL DET NYE </h1>
+									<h1>CAMPUS BINDSLEVS PLADS </h1>	
+								</div>
+							</div>
+						</li>
 							<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">

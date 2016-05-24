@@ -69,10 +69,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					 <ul class="nav navbar-nav animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-						<li <?php if ($thisPage=="Home") echo " class=\"active\""; ?>><a href="home.php">Forside</a></li>
+						<li <?php if ($thisPage=="Hjem") echo " class=\"active\""; ?>><a href="hjem.php">Forside</a></li>
 						<li <?php if ($thisPage=="Galleri") echo " class=\"active\""; ?>><a href="galleri.php">Galleri</a></li>
-                        <li <?php if ($thisPage=="Om") echo " class=\"active\""; ?>><a href="about.php">Om</a></li>
-						<li <?php if ($thisPage=="Kontakt") echo " class=\"active\""; ?>><a href="contact.php">Kontakt</a></li>
+                        <li <?php if ($thisPage=="Om") echo " class=\"active\""; ?>><a href="om.php">Om</a></li>
+						<li <?php if ($thisPage=="Kontakt") echo " class=\"active\""; ?>><a href="kontakt.php">Kontakt</a></li>
 					  </ul>
 					</div><!-- /.navbar-collapse -->
 				</nav>
