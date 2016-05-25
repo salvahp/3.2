@@ -33,14 +33,14 @@
 					Skriv til os her på siden, send os en besked på <a class="" href="https://www.facebook.com/campusbindslevsplads/">Facebook</a> eller brug hashtagget <a href="https://www.instagram.com/explore/tags/mitbindslevsplads/">#mitbindslevsplads</a> for at vise os din gode idé.</p>
 				<div class="more-address">
 					<div class="address-more">
-						<p>Campus Bindslevs Plads</p>
-						<p>Bindslevs Plads 14</p>
-						<p>8600 Silkeborg</p>
+						<p itemprop="name">Campus Bindslevs Plads</p>
+						<p itemprop="streetAddress">Bindslevs Plads 14</p>
+						<p itemprop="postalCode addressLocality">8600 Silkeborg</p>
 					</div>
 					<div class="address-left">
-						<p><abbr title="Phone">Tlf.: 87 22 19 00</abbr></p>
-						<p><a href="http://campusbindslevsplads.dk/">Campus Bindslevs Plads</a></p>
-						<p><a href="mailto:info@example.com">mail@example.com</a></p>
+						<p><abbr itemprop="telephone" title="Phone">Tlf.: 87 22 19 00</abbr></p>
+						<p><a href="http://campusbindslevsplads.dk/" itemprop="url">Campus Bindslevs Plads</a></p>
+						<p><a href="mailto:info@example.com" itemprop="email">mail@example.com</a></p>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
