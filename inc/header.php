@@ -62,7 +62,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<span class="icon-bar"></span>
 					  </button>
 						<div class="logo animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-							<a class="navbar-brand" href="home.php"><img id="bannerlogo" src="images/logo-us.png"></a>
+							<a class="navbar-brand" href="hjem.php"><img id="bannerlogo" src="images/logo-us.png"></a>
 						</div>
 					</div>
 
