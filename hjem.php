@@ -15,7 +15,7 @@
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
 									<h1>Velkommen til det nye</h1>
-									<h1 class="bold">CAMPUS BINDSLEVS PLADS</h1>	
+									<h1 class="bold makeorange">CAMPUS BINDSLEVS PLADS</h1>	
 								</div>
 							</div>
 						</li>

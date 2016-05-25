@@ -62,7 +62,7 @@ body a:hover{
 }
 .navbar-nav {
     float: right;
-    margin-top: 7px;
+    margin-top: 72px;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
@@ -85,7 +85,7 @@ body a:hover{
     margin-bottom: 0;
 }
 .nav > li > a {
-    padding: 10px 25px;
+    padding: 10px 25px 0px 25px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #753f16;
@@ -146,9 +146,11 @@ body a:hover{
 }
 .banner-info-left h1{
     font-size: 3em;
-    color: #753f16;
     margin: 0;
 }
+.makeorange {
+	color: #ef7d43;
+	}
 
 .banner-info-left p {
     font-size: 14px;
