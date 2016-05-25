@@ -22,7 +22,7 @@
                 </div>
                 
             <div class="col-md-4 footer-left animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-				<h4>Samarbejdspartnere</h4>
+				<h4>Partnere</h4>
 				<ul class="partnere">
 					<li>Silkeborg Bibliotek - </li>
 					<li>Silkeborg Business College - </li>

@@ -8,9 +8,9 @@
 
 <div class="banner-1"> </div>
 <!-- //banner --> 
-<!-- contact-section --><h1 class="text-center">Har du en god ide?</h1>
+<!-- contact-section -->
 <div class="contact-section">
-	
+	<h1 class="text-center">Har du en god ide?</h1>
 	<div class="container">
 		<section class="contact-form">
 			<div class="col-md-6 contact-grid animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
