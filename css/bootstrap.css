@@ -48,6 +48,7 @@ a {
 a:active,
 a:hover {
   outline: 0;
+  color:#ef7d43;
 }
 abbr[title] {
   border-bottom: 1px dotted;
@@ -1104,7 +1105,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #ef7d43;
   text-decoration: underline;
 }
 a:focus {
@@ -1540,7 +1541,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+
 }
 code {
   padding: 2px 4px;
