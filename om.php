@@ -18,7 +18,7 @@
 			</div>
 			<div class="col-md-7 about-grid1">
             <h4>Et par ord om os</h4>
-				<p> Campus Bindslevs Plads er i fuld fart frem. Hvad der før var en stor parkeringsplads, er nu ved at blive til et centrum for liv, kultur og vidensdeling. Hen mod august 2017 bygger vi en stor parkeringskælder i to etager med et campus ovenpå jorden.  <br>
+				<p itemprop="description"> Campus Bindslevs Plads er i fuld fart frem. Hvad der før var en stor parkeringsplads, er nu ved at blive til et centrum for liv, kultur og vidensdeling. Hen mod august 2017 bygger vi en stor parkeringskælder i to etager med et campus ovenpå jorden.  <br>
 <br>
 Visionen bag projektet bygger på kreativitet, dynamik og tanken om at skabe en markedsplads, hvor du som borger sammen med venner, familie eller studiekammerater kan mødes, udveksle viden og afprøve nye idéer i de rammer, som Campus Bindslevs Plads tilbyder.  <br>
 <br>

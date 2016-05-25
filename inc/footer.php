@@ -3,10 +3,12 @@
 		<div class="container">
 			<div class="col-md-4 footer-left animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Kontakt</h4>
-					<address>
-							<li>Bindslevs Plads 14</li>
-							<li>8600 Silkeborg</li>
-							<li><abbr title="Phone">Tlf. :87 22 19 00 </abbr> </li>
+					<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+							<li><a href="mailto:mail@campusmail.dk" itemprop="email">
+   							mail@campusmail.dk</a></li>
+							<li itemprop="streetAddress">Bindslevs Plads 14</li>
+							<li itemprop="postalCode addressLocality">8600 Silkeborg</li>
+							<li><abbr title="Phone" itemprop="telephone">Tlf. :87 22 19 00 </abbr> </li>
 					</address>
 			</div>
 
