@@ -96,7 +96,7 @@ body a:hover{
 	height:100vh;
 }
 .wrap{
-	padding-top:2.5em;
+	padding-top:0.5em;
     margin: 0 auto;
     max-width: 850px;
     min-width: 320px;
@@ -107,6 +107,10 @@ body a:hover{
 	background-color:#753f16;
   
 	}
+#stort { 
+	font-size:3.85em;
+	font-weight:bolder;
+}
 #myCounter-mobile{
   display: none;
 }

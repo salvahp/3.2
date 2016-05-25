@@ -33,7 +33,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div id="wrapper" class="wrap fullheight">
 			<main>
 				<section id="myCounter"> 
-					<h1 class="text-center">CAMPUS BINDSLEVS PLADS ÅBNER OM:</h1>
+					
+									<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
+									<h1 class="text-center banner-info-left h1">ÅBNER OM:</h1>	
 					<!-- START COUNTDOWN --> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
@@ -78,7 +80,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<section id="newsletterform">
 				
 				
-                <h5 class="newsletter">Hold dig opdateret om, hvad der sker på Campus Bindslevs Plads </h5>
+                <h5 class="newsletter">Hold dig opdateret om, hvad der sker på Campus Bindslevs Plads.</h5>
                 <h4 class="newsletter">Tilmeld dig vores nyhedsbrev her!</h4>
 				<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
 					<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
