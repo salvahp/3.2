@@ -35,7 +35,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<section id="myCounter"> 
 					
 									<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
-									<h1 class="text-center banner-info-left h1">ÅBNER OM:</h1>	
+									<h1 class="text-center banner-info-left h1">NEDTÆLLING</h1>
 					<!-- START COUNTDOWN --> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
