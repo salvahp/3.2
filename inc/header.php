@@ -44,7 +44,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet" type="text/css">
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/Organization">
 <?php include_once("analyticstracking.php") ?>
 <!-- header -->
 	<div class="header">
