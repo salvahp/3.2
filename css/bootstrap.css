@@ -3445,8 +3445,9 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-lg,
 .btn-group-lg > .btn {
-  padding: 10px 16px;
-  font-size: 12px;
+  padding: 13px;
+  font-size: 16px;
+  width: 30%;
   line-height: 1.3333333;
   border-radius: 6px;
 }
@@ -4363,6 +4364,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
   }
+
 }
 @media (min-width: 768px) {
   .navbar-nav {
@@ -4657,6 +4659,11 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: #080808;
 }
 @media (max-width: 767px) {
+.btn-lg,
+.btn-group-lg > .btn {
+  width: 70%;
+  }
+
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
     border-color: #080808;
   }

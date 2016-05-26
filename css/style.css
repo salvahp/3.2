@@ -378,6 +378,11 @@ h3.tittle {
     background-color: #ef7d43;
 	
 }
+
+#makewhite { 
+  color: #fff; 
+}
+
 .footer h4 {
     color: #FFF;
     font-size: 1.5em;
