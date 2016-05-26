@@ -83,7 +83,7 @@
 				
 			       	echo "
 					<!--thumb image i img -->
-					<a class='col-md-3 main-serv-grid' href='images/gallery/".$filename3."' data-lightbox='image-1' data-title='".$description3."'>
+					<a class='col-md-3 main-serv-grid minh' href='images/gallery/".$filename3."' data-lightbox='image-1' data-title='".$description3."'>
 					<img src='images/gallery/thumb/".$filename3."'><p>".$description3."</p>
 					</a>";
 					
@@ -119,7 +119,7 @@
 				
 			       	echo "
 					<!--thumb image i img -->
-					<a class='col-md-3 main-serv-grid' href='images/gallery/".$filename5."' data-lightbox='image-1' data-title='".$description5."'>
+					<a class='col-md-3 main-serv-grid minh' href='images/gallery/".$filename5."' data-lightbox='image-1' data-title='".$description5."'>
 					<img src='images/gallery/thumb/".$filename5."'><p>".$description5."</p>
 					</a>";
 					

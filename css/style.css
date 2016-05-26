@@ -984,7 +984,7 @@ p.para1 {
   line-height: 1.8em;
 }
 .other-serv {
-  padding: 6.5em 0em 1em 0em;
+  padding: 2.5em 0em 1em 0em;
 }
 .other-serv h3 {
     font-size: 2em;
@@ -1464,7 +1464,7 @@ address {
 }
 .main-serv-grid {
     float: left;
-    width: 50%;
+    width: 100%;
     margin: 0 0 2em;
 }
 .services-top p {
