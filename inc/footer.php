@@ -4,7 +4,7 @@
 			<div class="col-md-4 footer-left animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Kontakt</h4>
 					<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-							<li><a href="mailto:mail@campusmail.dk" itemprop="email">
+							<li><a id="makewhite" href="mailto:mail@campusmail.dk" itemprop="email">
    							mail@campusmail.dk</a></li>
 							<li itemprop="streetAddress">Bindslevs Plads 14</li>
 							<li itemprop="postalCode addressLocality">8600 Silkeborg</li>

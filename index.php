@@ -56,7 +56,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</section>
 				<section id="myCounter-mobile"> 
 					
-					<!-- START COUNTDOWN --> 
+					<!-- START COUNTDOWN mobile--> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
 						
