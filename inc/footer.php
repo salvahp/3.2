@@ -3,18 +3,18 @@
 		<div class="container">
 			<div class="col-md-4 footer-left animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Kontakt</h4>
-					<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-							<li><a id="makewhite" href="mailto:mail@campusmail.dk" itemprop="email">
+					<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><!-- Itemprop er microdata markering som giver søgemaskinerne relevant information -->
+							<li><a id="makewhite" href="mailto:mail@campusmail.dk" itemprop="email"><!-- De bliver omdannet til rich snippets og kan bruges til alt fra mail til navne -->
    							mail@campusmail.dk</a></li>
 							<li itemprop="streetAddress">Bindslevs Plads 14</li>
 							<li itemprop="postalCode addressLocality">8600 Silkeborg</li>
-							<li><abbr title="Phone" itemprop="telephone">Tlf. :87 22 19 00 </abbr> </li>
+							<li title="Phone" itemprop="telephone">Tlf. :87 22 19 00 </li>
 					</address>
 			</div>
 
 			<div class="col-md-4 footer-left animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<h4>Følg os</h4>
-				<div class="soci">
+				<div class="soci"> <!-- Sociale medier links-->
 					<li><a href="https://www.facebook.com/campusbindslevsplads/"><i class="f-1"> </i></a></li>
 					<li><a href="https://www.instagram.com/explore/tags/mitbindslevsplads/"><i class="t-1"> </i></a></li>
 					<li><a href="https://twitter.com/hashtag/mitbindslevsplads"><i class="g-1"> </i></a></li>
@@ -33,7 +33,7 @@
                     <li>Den Kreative Skole</li>
 				</ul>
 			</div>
-				<div class="clearfix"> </div>
+				<div class="clearfix"> </div><!-- Clearfix nulstiller float left mm. -->
 				<div class="footer-bottom">
 				<!-- <p>© 2016 Pest. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p> -->
 			</div>
@@ -48,7 +48,8 @@
  new WOW().init();
 </script>
 <!-- //animation-effect -->
-<script type="text/javascript">
+<!-- Implemention af mouseflow -->
+<script type="text/javascript"> 
 var _mfq = _mfq || [];
   (function() {
     var mf = document.createElement("script");

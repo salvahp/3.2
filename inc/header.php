@@ -7,9 +7,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $title; ?></title>
-<meta name="keywords" content="<?php echo $metakeywords; ?>" />
-<meta name="description" content="<?php echo $metadescription; ?>" />
+<title><?php echo $title; ?></title> <!-- Kalder variablen $title på den aktive side -->
+<meta name="keywords" content="<?php echo $metakeywords; ?>" /><!-- Kalder variablen $metakeywords på den aktive side -->
+<meta name="description" content="<?php echo $metadescription; ?>" /><!-- Kalder variablen $metadescription på den aktive side -->
 <meta name="robots" content="noindex, nofollow">
 <link rel="icon" href="favicon.png" type="image/png">
 
@@ -40,11 +40,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						});
 					  </script>
 <!-- //FlexSlider -->
+<!-- Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet" type="text/css">
 </head>
-
+<!-- Schema er til micro datamarkering  -->
 <body itemscope itemtype="http://schema.org/Organization">
+<!-- Google Analytics  -->
 <?php include_once("analyticstracking.php") ?>
 <!-- header -->
 	<div class="header">
@@ -69,7 +71,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					 <ul class="nav navbar-nav animated wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="500ms">
-						<li <?php if ($thisPage=="Hjem") echo " class=\"active\""; ?>><a href="hjem.php">Forside</a></li>
+						<li <?php if ($thisPage=="Hjem") echo " class=\"active\""; ?>><a href="hjem.php">Forside</a></li><!-- Der er blevet tilføjet php så hvis den pågældende side er aktiv vises det ved markering i navigationen-->
 						<li <?php if ($thisPage=="Galleri") echo " class=\"active\""; ?>><a href="galleri.php">Galleri</a></li>
                         <li <?php if ($thisPage=="Om") echo " class=\"active\""; ?>><a href="om.php">Om</a></li>
 						<li <?php if ($thisPage=="Kontakt") echo " class=\"active\""; ?>><a href="kontakt.php">Kontakt</a></li>

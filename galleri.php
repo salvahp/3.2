@@ -1,24 +1,25 @@
+<!-- Php som giver de informationer headeren kalder efter -->
 <?php 
 	$thisPage="Galleri";
 	$title ="Campus Bindslevs Plads - Galleri";
 	$metakeywords ="Kampagneside, Galleri, billeder, tegninger, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune";
 	$metadescription ="Kampagneside for Campus Bindslevs Plads, se vores galleri og find billeder af projektet og bygningen samt hold dig opdateret på det nye fælles byrum og laboratorium til læring, kreativitet og kultur.";
 	include "inc/header.php";?><head>
-<link rel="stylesheet" href="css/lightbox.css">
+<link rel="stylesheet" href="css/lightbox.css"><!-- css til galleri input -->
 </head>
 <!-- banner -->
 
 
 <div class="banner-1"> </div>
 <!-- //banner --> 
-<!-- services -->
+<!-- galleri -->
 <div class="services">
 <div class="container">
 	<div class="services-main">
 		<div class="services-top animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 			<h3>Galleri</h3>
 			<div class="other-serv animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-				
+				<!-- php som opretter database forbindelsen -->
 			<?php 
         include('inc/dbconnect.php');
         #$dbc=mysqli_connect("localhost","root","password");
@@ -29,7 +30,7 @@
 		$query1= mysqli_query($dbc, "SELECT `image`.`filename`, `image`.`description`, `project`.`projectname` FROM project
 		INNER JOIN image ON `image`.`project_id` = `project`.`project_id`
 		WHERE projectname='byggeri'");
-		
+		#----- Vi bruger DML til at hente data fra databasen, det bliver skrevet ud i variabler som vi kan echo.
 		$row = mysqli_fetch_assoc($query1);
 		$filename1 = $row['filename'];
 		$projectname1 = $row['projectname'];
@@ -135,5 +136,5 @@
 	</div>
 </div>
 <script src="js/lightbox-plus-jquery.min.js"></script> 
-<!-- services -->
+<!-- //galleri-->
 <?php include "inc/footer.php";?>

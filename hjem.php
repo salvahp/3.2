@@ -1,3 +1,4 @@
+<!-- Php som giver de informationer headeren kalder efter -->
 <?php 
 	$thisPage="Hjem";
 	$title ="Campus Bindslevs Plads - Forside";
@@ -60,6 +61,7 @@
 				</section>
 			
 							<!-- FlexSlider -->
+							<!-- Var en slider som allerede var i dette bootsrap, men vi har tilpasset den til vores behov, også i css-->
 									  <script defer="" src="js/jquery.flexslider.js"></script>
 									  <script type="text/javascript">
 										$(function(){
@@ -78,7 +80,7 @@
 		</div>
 	</div>
 <!-- //banner -->
-<!-- crop -->
+<!-- midter sektion  -->
 	<div class="crop">
 		
 			<div class="col-md-4 crop-left1 animated wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms"><!-- billede til venstre-->
@@ -97,8 +99,9 @@
 			<div class="clearfix"></div>
 		
 	</div>
-<!-- //crop -->
-<!--start-team-->
+<!-- //midter sektion -->
+<!--start-projekt team-->
+<!-- Bliver vidst som cirkler på siden, ved hjælp af js og css-->
 		<div class="team">
 	      <div class="container">
 	      	<div class="services-top animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
@@ -153,6 +156,6 @@
 				
 		  </div>
        </div>
-<!--start-yachts-->
 
+<!-- footer -->
 <?php include "inc/footer.php";?>

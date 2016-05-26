@@ -1,3 +1,4 @@
+<!-- Php som giver de informationer headeren kalder efter -->
 <?php 
 	$thisPage="Om";
 	$title ="Campus Bindslevs Plads - Om os";
@@ -25,12 +26,12 @@
 			<div class="clearfix"></div>
 		</div>
 		<!-- about-page --> 
-		<!-- team -->
+		<!-- samarbejdspartnere -->
 		<div class="team">
 			<div class="team-info">
 				<h3>Det siger vores samarbejdspartnere</h3>
 			</div>
-			<!-- flex-slider -->
+			<!-- flex-slider som viser samarbejdspartnere og deres udtalelser om projektet   -->
 			<div class="work-bottom animated wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
 				<div class="nbs-flexisel-container">
 					<div class="nbs-flexisel-inner">
@@ -70,7 +71,7 @@
 							<li class="nbs-flexisel-item" style="width: 285px;">
 								<div class="team-left"> <img src="images/partnerelogo/thlanghfvuclogo.png" alt="">
 									<div class="team-bottom">
-										<h4>Th Langs HF & VUC</h4>
+										<h4>Th Langs HF &amp; VUC</h4>
 										<p class="aboutp">"Vi ser netop samarbejdet omkring ny læring, som kernen i projektet, og den læring kræver helt nye og anderledes rammer, for at kunne udfolde sig. De rammer skal Campus Bindslevs Plads udgøre i fremtiden. "</p>
 									</div>
 								</div>
@@ -96,6 +97,7 @@
 						<div class="nbs-flexisel-nav-right" style="top: 157.5px;"></div>
 					</div>
 				</div>
+				<!-- slider hvor man kan tilpasse fart osv.  -->
 				<script type="text/javascript">
 										$(window).load(function() {
 											$("#flexiselDemo1").flexisel({
@@ -129,5 +131,5 @@
 		</div>
 	</div>
 </div>
-<!-- team -->
+<!-- samarbejdspartnere -->
 <?php include "inc/footer.php";?>

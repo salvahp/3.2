@@ -111,16 +111,17 @@ body a:hover{
 	font-size:3.85em;
 	font-weight:bolder;
 }
+/*-- Gør at man ikke kan se den mobile counter display:none = ikke synlig ; denne bliver aktiv længere nede --*/
 #myCounter-mobile{
   display: none;
 }
 
-/*-- //landingpage --*/
 #landingbg {
-	background-image:url(../images/campus2.png);
+	background-image:url(../images/campus2.png);/*-- ændring er baggrundsbillede  --*/
 	background-position:center;
 	background-size:cover;
 }
+/*-- //landingpage --*/
 /*-- banner --*/
 .banner{
 	background: url(../images/campus1.png) no-repeat 0px 0px;

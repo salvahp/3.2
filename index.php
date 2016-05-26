@@ -9,9 +9,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <html>
 		<head>
-		<title>Campus Bindslev Plads</title>
-		<meta name="robots" content="noindex, nofollow">
-		<link rel="icon" href="favicon.png?" type="image/png">
+		<title>Campus Bindslev Plads</title> <!-- Er anderledes for de andre sider da denne side skal stå for sig selv-->
+		<meta name="robots" content="noindex, nofollow"> <!-- gør siden ikke bliver fundet af søgemaskine robotter, så længe de respektere dette-->
+		<link rel="icon" href="favicon.png?" type="image/png"> <!-- vores favicon-->
 
 		<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,12 +29,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</head>
 
 		<body id="landingbg">
-		<?php include_once("inc/analyticstracking.php") ?>
+		<?php include_once("inc/analyticstracking.php") ?><!-- Google analytics-->
 		<div id="wrapper" class="wrap fullheight">
 			<main>
 				<section id="myCounter">
 					<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
-					<!-- START COUNTDOWN --> 
+					<!-- START COUNTDOWN -->
+					<!-- Kalder på funktionen i countdown.js, dog kan man ændre disse parametere i scriptet nedenunder(Det gør det nemmere for begyndere at bruge disse inputs)--> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
 						
@@ -52,6 +53,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					
 					<!-- END COUNTDOWN --> 
 				</section>
+				<!-- Samme counter som ovenover bare tilpasset til mobil, når den ovenover er for stor bliver den display:none ud i css og denne går fra display:none til block -->
 				<section id="myCounter-mobile">
 					<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
 					<!-- START COUNTDOWN --> 
@@ -72,11 +74,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					
 					<!-- END COUNTDOWN --> 
 				</section>
+				<!-- Link til kampagnesiden -->
 				<section id="gotosite" class="center-block btn "> <a class="btn btn-info btn-lg" href="hjem.php" role="button">GÅ TIL SITE</a> </section>
+				<!-- Newsletter form -->
 				<section id="newsletterform">
 					<h5 class="newsletter">Vi tæller ned til det nye Campus Bindslevs Plads. Vil du gerne holdes opdateret?</h5>
 					<h4 class="newsletter">Tilmeld dig vores nyhedsbrev her!</h4>
-					<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
+					<form action="inc/send.php" method="post" id="newsletter" name="newsletter"> <!-- starter send.php som gør denne funktion aktiv og sender mailen ind i databasen, der er blevet tilføjet sikkerhed i send.php-->
 						<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
 						<input type="submit" value="Tilmeld" name="signup-button" id="signup-button">
 					</form>
@@ -90,6 +94,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!-- Newsletter form --> 
 			
 		</div>
+		<!-- Mouseflow-->
 		<script type="text/javascript">
 var _mfq = _mfq || [];
   (function() {
