@@ -42,6 +42,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- //FlexSlider -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#EF7D43" />
 </head>
 
 <body itemscope itemtype="http://schema.org/Organization">
