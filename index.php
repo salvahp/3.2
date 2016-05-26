@@ -10,14 +10,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 		<head>
 		<title>Campus Bindslev Plads</title>
-        <meta name="robots" content="noindex, nofollow">
+		<meta name="robots" content="noindex, nofollow">
 		<link rel="icon" href="favicon.png?" type="image/png">
-		
+
 		<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="keywords" content="Kampagneside, Campus Bindslevs Plads, Silkeborg, Kultur, Aarhus17, FabLab, Rethink Læring, Projekt Ny Læring, Silkeborg kommune" />
-        <meta name="description" content="Kampagneside for Campus Bindslevs Plads, hold dig opdateret på det nye fælles byrum og laboratorium til læring, kreativitet og kultur. " />
+		<meta name="description" content="Kampagneside for Campus Bindslevs Plads, hold dig opdateret på det nye fælles byrum og laboratorium til læring, kreativitet og kultur. " />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<!-- //for-mobile-apps -->
@@ -32,10 +32,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<?php include_once("inc/analyticstracking.php") ?>
 		<div id="wrapper" class="wrap fullheight">
 			<main>
-				<section id="myCounter"> 
-					
-									<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
-									<h1 class="text-center banner-info-left h1">NEDTÆLLING</h1>
+				<section id="myCounter">
+					<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
 					<!-- START COUNTDOWN --> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
@@ -54,8 +52,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					
 					<!-- END COUNTDOWN --> 
 				</section>
-				<section id="myCounter-mobile"> 
-					
+				<section id="myCounter-mobile">
+					<h1 id="stort" class="bold makeorange text-center banner-info-left h1">CAMPUS BINDSLEVS PLADS</h1>
 					<!-- START COUNTDOWN --> 
 					<script src="js/countdown.js" type="text/javascript"></script> 
 					<script type="application/javascript">
@@ -74,29 +72,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					
 					<!-- END COUNTDOWN --> 
 				</section>
-				<section id="gotosite" class="center-block btn "> 
-					<a class="btn btn-info btn-lg" href="hjem.php" role="button">GÅ TIL SITE</a> 
-				</section>
+				<section id="gotosite" class="center-block btn "> <a class="btn btn-info btn-lg" href="hjem.php" role="button">GÅ TIL SITE</a> </section>
 				<section id="newsletterform">
-				
-				
-                <h5 class="newsletter">Hold dig opdateret om, hvad der sker på Campus Bindslevs Plads.</h5>
-                <h4 class="newsletter">Tilmeld dig vores nyhedsbrev her!</h4>
-				<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
-					<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
-					<input type="submit" value="Tilmeld" name="signup-button" id="signup-button">
-				</form>
-				<div id="response"></div>
-				
-				<!-- newsletter scripts --> 
-				<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
-				<script src="js/lib.js"></script> 
-			</section>
+					<h5 class="newsletter">Vi tæller ned til det nye Campus Bindslevs Plads. Vil du gerne holdes opdateret?</h5>
+					<h4 class="newsletter">Tilmeld dig vores nyhedsbrev her!</h4>
+					<form action="inc/send.php" method="post" id="newsletter" name="newsletter">
+						<input type="email" name="signup-email" id="signup-email" value="" placeholder="Skriv Email her" />
+						<input type="submit" value="Tilmeld" name="signup-button" id="signup-button">
+					</form>
+					<div id="response"></div>
+					
+					<!-- newsletter scripts --> 
+					<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+					<script src="js/lib.js"></script> 
+				</section>
 			</main>
-			<!-- Newsletter form -->
+			<!-- Newsletter form --> 
 			
-	</div>
-<script type="text/javascript">
+		</div>
+		<script type="text/javascript">
 var _mfq = _mfq || [];
   (function() {
     var mf = document.createElement("script");
