@@ -48,7 +48,7 @@
 				
 			       	echo "
 					<!--thumb image i img -->
-					<a class='col-md-3 main-serv-grid' href='images/gallery/".$filename."' data-lightbox='image-1' data-title='".$description."'>
+					<a class='col-md-3 main-serv-grid minh' href='images/gallery/".$filename."' data-lightbox='image-1' data-title='".$description."'>
 					<img src='images/gallery/thumb/".$filename."'><p>".$description."</p>
 					</a>";
 					
