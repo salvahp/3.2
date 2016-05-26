@@ -22,7 +22,7 @@
 							<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h2>Vidste du at </h2>
+									<h2>Vidste du at...?</h2>
 									<h3 class="slidertekst">Bygningen bliver omkring 1500 m2, hvilket svarer til 600 skriveborde. </h3>	
 								</div>
 							</div>
@@ -30,7 +30,7 @@
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h2>Vidste du at </h2>
+									<h2>Vidste du at...?</h2>
 									<h3 class="slidertekst">Der i den nye parkeringskælder vil være plads til 174 biler. </h3>
 									
 								</div>
@@ -39,7 +39,7 @@
 						<li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h2>Vidste du at</h2>
+									<h2>Vidste du at...?</h2>
 									<h3 class="slidertekst">“Markedsplads” betyder “et sted hvor der foregår handel eller udveksling” - På Bindslevs Plads vil det være udveksling af viden og idéer.</h3>
                               </div>
                          
@@ -49,7 +49,7 @@
                         <li>
 							<div class="banner-info animated wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
 								<div class="banner-info-left">
-									<h2>Vidste du at</h2>
+									<h2>Vidste du at...?</h2>
 									<h3 class="slidertekst">Logoet er en præcis kopi af formen på pladsen fra Google Maps. </h3>
                               </div>
                          
